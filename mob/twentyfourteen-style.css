@@ -520,7 +520,7 @@ display: none;
 #post-0 > header > h1, 
 #send_message_form > label:nth-child(1), #send_message_form > label:nth-child(3), #send_message_form > label:nth-child(5),/*HIDING LABELS FOR COMPOSE*/
 div.wpbdp-bar.cf > div, #post-275 > div > p:nth-child(1), #wpbdmsearchsubmit, #wpbdp-view-listings-page > div.wpbdp-bar.cf,
-div > br, #wp-admin-bar-search
+div > br, #wp-admin-bar-search, #wp-admin-bar-search > div
 {
 display: none !important;
 }
