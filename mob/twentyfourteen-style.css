@@ -14,39 +14,1726 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
-body,.site,#wp-admin-bar-my-account > div,#wp-admin-bar-Profile_Edit > div{max-width:1349px}.site{margin:0 auto}.site-content .entry-header,.site-content .entry-content,.site-content .entry-summary,.site-content .entry-meta,.page-content{max-width:100%}.comments-area{max-width:100%}.post-navigation,.image-navigation{max-width:100%}.site:before,#secondary{width:0;display:none}.featured-content{padding-left:0}.site-content,.site-main .widecolumn{margin-left:0}.hentry{max-width:100%}.post-thumbnail img,.site-content{width:100%}#buddypress .activity-list .activity-content{margin:0!important;width:100%}#buddypress form#whats-new-form #whats-new-content{margin-left:0!important;padding:0 0 20px!important}div.activity-inner > div > ul > li{text-align:center}#main{margin-top:0!important}body{margin-top:-46px!important}#profile-edit-form > div.editfield.field_174,#profile-edit-form > div.editfield.field_175,#profile-edit-form > div.editfield.field_176,#profile-edit-form > div.editfield.field_177,#profile-edit-form > div.editfield.field_265,#profile-edit-form > div.editfield.field_266,#profile-edit-form > div.editfield.field_523,#profile-edit-form > div.editfield.field_526,#profile-edit-form > div.editfield.field_527,#profile-edit-form > div.editfield.field_528,#profile-edit-form > div.editfield.field_529,#profile-edit-form > div.editfield.field_530,#profile-edit-form > div.editfield.field_531,#profile-edit-form > div.editfield.field_534,#profile-edit-form > div.editfield.field_535,#profile-edit-form > div.editfield.field_536,#profile-edit-form > div.editfield.field_537,#profile-edit-form > div.editfield.field_538,#profile-edit-form > div.editfield.field_539,#profile-edit-form > div.editfield.field_542,#profile-edit-form > div.editfield.field_543,#profile-edit-form > div.editfield.field_544,#profile-edit-form > div.editfield.field_545,#profile-edit-form > div.editfield.field_546,#profile-edit-form > div.editfield.field_181,#profile-edit-form > div.editfield.field_185,#profile-edit-form > div.editfield.field_186,#profile-edit-form > div.editfield.field_188,#profile-edit-form > div.editfield.field_277,#profile-edit-form > div.editfield.field_279,#profile-edit-form > div.editfield.field_483,#profile-edit-form > div.editfield.field_489,#profile-edit-form > div.editfield.field_493,#profile-edit-form > div.editfield.field_494,#profile-edit-form > div.editfield.field_495,#profile-edit-form > div.editfield.field_496,#profile-edit-form > div.editfield.field_497,#profile-edit-form > div.editfield.field_501,#profile-edit-form > div.editfield.field_502,#profile-edit-form > div.editfield.field_503,#profile-edit-form > div.editfield.field_504,#profile-edit-form > div.editfield.field_505,#profile-edit-form > div.editfield.field_506,#profile-edit-form > div.editfield.field_510,#profile-edit-form > div.editfield.field_511,#profile-edit-form > div.editfield.field_512,#profile-edit-form > div.editfield.field_513,#profile-edit-form > div.editfield.field_514,#profile-edit-form > div.editfield.field_189,#profile-edit-form > div.editfield.field_193,#profile-edit-form > div.editfield.field_194,#profile-edit-form > div.editfield.field_195,#profile-edit-form > div.editfield.field_278,#profile-edit-form > div.editfield.field_280,#profile-edit-form > div.editfield.field_515,#profile-edit-form > div.editfield.field_518,#profile-edit-form > div.editfield.field_519,#profile-edit-form > div.editfield.field_520,#profile-edit-form > div.editfield.field_521,#profile-edit-form > div.editfield.field_522,#profile-edit-form > div.editfield.field_687,#profile-edit-form > div.editfield.field_731,#profile-edit-form > div.editfield.field_732,#profile-edit-form > div.editfield.field_733,#profile-edit-form > div.editfield.field_734,#profile-edit-form > div.editfield.field_735,#profile-edit-form > div.editfield.field_736,#profile-edit-form > div.editfield.field_793,#profile-edit-form > div.editfield.field_794,#profile-edit-form > div.editfield.field_795,#profile-edit-form > div.editfield.field_796,#profile-edit-form > div.editfield.field_797,#profile-edit-form > div.editfield.field_478,#profile-edit-form > div.editfield.field_479,#profile-edit-form > div.editfield.field_480,#profile-edit-form > div.editfield.field_481,#profile-edit-form > div.editfield.field_482,#profile-edit-form > div.editfield.field_798,#profile-edit-form > div.editfield.field_799,#profile-edit-form > div.editfield.field_800,#profile-edit-form > div.editfield.field_801,#profile-edit-form > div.editfield.field_802,#profile-edit-form > div.editfield.field_803,#profile-edit-form > div.editfield.field_804,#profile-edit-form > div.editfield.field_805,#profile-edit-form > div.editfield.field_806,#profile-edit-form > div.editfield.field_807,#profile-edit-form > div.editfield.field_808,#profile-edit-form > div.editfield.field_809,#profile-edit-form > div.editfield.field_810,#profile-edit-form > div.editfield.field_811,#profile-edit-form > div.editfield.field_812,#profile-edit-form > div.editfield.field_813,#profile-edit-form > div.editfield.field_814,#profile-edit-form > div.editfield.field_815,#profile-edit-form > div.editfield.field_816,#profile-edit-form > div.editfield.field_817,#profile-edit-form > div.editfield.field_818,#profile-edit-form > div.editfield.field_819,#profile-edit-form > div.editfield.field_820,#profile-edit-form > div.editfield.field_821,#profile-edit-form > div.editfield.field_822,#profile-edit-form > div.editfield.field_823,#profile-edit-form > div.editfield.field_824,#profile-edit-form > div.editfield.field_825,#profile-edit-form > div.editfield.field_826,#profile-edit-form > div.editfield.field_827,#profile-edit-form > div.editfield.field_828,#profile-edit-form > div.editfield.field_65,#profile-edit-form > div.editfield.field_66,#profile-edit-form > div.editfield.field_67,#profile-edit-form > div.editfield.field_68,#profile-edit-form > div.editfield.field_69,#profile-edit-form > div.editfield.field_70,#profile-edit-form > div.editfield.field_71,#profile-edit-form > div.editfield.field_72,#profile-edit-form > div.editfield.field_73,#profile-edit-form > div.editfield.field_74,#profile-edit-form > div.editfield.field_75,#profile-edit-form > div.editfield.field_76,#profile-edit-form > div.editfield.field_77,#profile-edit-form > div.editfield.field_78,#profile-edit-form > div.editfield.field_79,#profile-edit-form > div.editfield.field_80,#profile-edit-form > div.editfield.field_81,#profile-edit-form > div.editfield.field_82,#profile-edit-form > div.editfield.field_83,#profile-edit-form > div.editfield.field_84,#groups-notification-settings-invitation,#rtmedia-add-media-button-post-update > i,#notifications-bulk-management > table > thead > tr > th.date,#notifications-bulk-management > table > tbody > tr > td:nth-child(4),#item-body > table > thead > tr > th.date,#item-body > table > tbody > tr > td:nth-child(3),#message-recipients > span,div.message-search,div.listing-title,.wpbdp-listing > div.contact-form > div > form > p:nth-child(6) > label,a.em-button.button.add-new-h2,#buddymenu-8 > h3,#submit-job-form > fieldset.fieldset-job_title > label,#submit-job-form > fieldset.fieldset-job_location > label,#submit-job-form > fieldset.fieldset-application > label,#submit-job-form > fieldset.fieldset-company_website > label,#submit-job-form > fieldset.fieldset-company_tagline > label,#submit-job-form > fieldset.fieldset-company_video > label,#submit-job-form > fieldset.fieldset-company_name > label,#submit-job-form > fieldset.fieldset-job_location > div > small,#submit-job-form > h2,#secondary,#content-sidebar,/*REMOVING THE NAV MENU IN SETTINGS*/
-#general-personal-li,#notifications-personal-li,#profile-personal-li,#delete-account-personal-li,/*HIDING THE MAIN MENU*/
-#masthead > div.header-main,/* aside#sidebar-sliding-panel.sidebar div.sp-wrap,*/ .site-info,#activity-filter-select,#adminbar-search,li.feed,/*HIDING THE (1)SEARCH BAR FROM PRIMARY MENU (2)OPTION TO CHOOSE THE TYPE OF ACTIVITY THAT CAN VIEWED IN LOBBY LIKE UPDATE,NEW MEMBERS,ETC (3)ADMIN BAR SEARCH (4) RSS FEED (5) REPEAT OF MENU TITLE */
+body, .site,#wp-admin-bar-my-account > div, #wp-admin-bar-Profile_Edit > div
+ {
+max-width: 1349px;
+}
+/*@media screen and (min-width: 783px) {
+	 .primary-navigation {
+		 float: right;
+		 margin-left: 20px;
+	        }
+		}*/
+
+.site {
+		margin: 0 auto;
+        }
+/*@media screen and (min-width: 1110px) {
+	.archive-header,
+	.comments-area,
+	.image-navigation,
+	.page-header,	        
+	.page-content,
+	.post-navigation,
+	.site-content .entry-header,
+	.site-content .entry-content,
+	.site-content .entry-summary,
+	.site-content footer.entry-meta {
+		padding-left: 55px;
+	        }
+        }*/
+
+.site-content .entry-header,
+.site-content .entry-content,
+.site-content .entry-summary,
+.site-content .entry-meta,
+.page-content {
+		max-width: 100%;
+        }
+.comments-area {
+		max-width: 100%;
+        }
+.post-navigation, .image-navigation {
+		max-width: 100%;
+        }
+
+.site:before,
+#secondary {
+		width: 0;
+		display: none;
+	    }
+.featured-content {
+		padding-left: 0;
+        }
+.site-content, .site-main .widecolumn {
+		margin-left: 0;
+        }
+.hentry {
+		max-width: 100%;
+        }
+.post-thumbnail img, .site-content{
+		width: 100%;
+		}
+#buddypress .activity-list .activity-content {
+    margin: 0 !important;
+width: 100%;
+}
+#buddypress form#whats-new-form #whats-new-content {
+    margin-left: 0 !important;
+    padding: 0 0 20px 0 !important;
+}
+div.activity-inner > div > ul > li{
+text-align: center;
+}
+#main{
+margin-top:0 !important;
+}
+/*html has a margin top 46px for media screen below ?px and to negate that putting negative margin top*/
+body {
+    margin-top: -46px !important;
+}
+/******************************************************************************
+******************************************************************************
+START OF DISPLAY:NONE
+******************************************************************************
+******************************************************************************/
+/*HIDING FIELDS FOR QUALIFICATION & EXPERIENCE: TOGGLE*/
+#profile-edit-form > div.editfield.field_174, 
+#profile-edit-form > div.editfield.field_175, 
+#profile-edit-form > div.editfield.field_176, 
+#profile-edit-form > div.editfield.field_177, 
+#profile-edit-form > div.editfield.field_265, 
+#profile-edit-form > div.editfield.field_266, 
+#profile-edit-form > div.editfield.field_523, 
+#profile-edit-form > div.editfield.field_526, 
+#profile-edit-form > div.editfield.field_527, 
+#profile-edit-form > div.editfield.field_528, 
+#profile-edit-form > div.editfield.field_529, 
+#profile-edit-form > div.editfield.field_530, 
+#profile-edit-form > div.editfield.field_531, 
+#profile-edit-form > div.editfield.field_534, 
+#profile-edit-form > div.editfield.field_535, 
+#profile-edit-form > div.editfield.field_536, 
+#profile-edit-form > div.editfield.field_537, 
+#profile-edit-form > div.editfield.field_538, 
+#profile-edit-form > div.editfield.field_539, 
+#profile-edit-form > div.editfield.field_542, 
+#profile-edit-form > div.editfield.field_543, 
+#profile-edit-form > div.editfield.field_544, 
+#profile-edit-form > div.editfield.field_545, 
+#profile-edit-form > div.editfield.field_546, 
+#profile-edit-form > div.editfield.field_181, 
+#profile-edit-form > div.editfield.field_185, 
+#profile-edit-form > div.editfield.field_186, 
+#profile-edit-form > div.editfield.field_188, 
+#profile-edit-form > div.editfield.field_277, 
+#profile-edit-form > div.editfield.field_279, 
+#profile-edit-form > div.editfield.field_483, 
+#profile-edit-form > div.editfield.field_489, 
+#profile-edit-form > div.editfield.field_493, 
+#profile-edit-form > div.editfield.field_494, 
+#profile-edit-form > div.editfield.field_495, 
+#profile-edit-form > div.editfield.field_496, 
+#profile-edit-form > div.editfield.field_497, 
+#profile-edit-form > div.editfield.field_501, 
+#profile-edit-form > div.editfield.field_502, 
+#profile-edit-form > div.editfield.field_503, 
+#profile-edit-form > div.editfield.field_504, 
+#profile-edit-form > div.editfield.field_505, 
+#profile-edit-form > div.editfield.field_506, 
+#profile-edit-form > div.editfield.field_510, 
+#profile-edit-form > div.editfield.field_511, 
+#profile-edit-form > div.editfield.field_512, 
+#profile-edit-form > div.editfield.field_513, 
+#profile-edit-form > div.editfield.field_514, 
+#profile-edit-form > div.editfield.field_189, 
+#profile-edit-form > div.editfield.field_193, 
+#profile-edit-form > div.editfield.field_194, 
+#profile-edit-form > div.editfield.field_195, 
+#profile-edit-form > div.editfield.field_278, 
+#profile-edit-form > div.editfield.field_280, 
+#profile-edit-form > div.editfield.field_515, 
+#profile-edit-form > div.editfield.field_518, 
+#profile-edit-form > div.editfield.field_519, 
+#profile-edit-form > div.editfield.field_520, 
+#profile-edit-form > div.editfield.field_521, 
+#profile-edit-form > div.editfield.field_522, 
+#profile-edit-form > div.editfield.field_687, 
+#profile-edit-form > div.editfield.field_731, 
+#profile-edit-form > div.editfield.field_732, 
+#profile-edit-form > div.editfield.field_733, 
+#profile-edit-form > div.editfield.field_734, 
+#profile-edit-form > div.editfield.field_735, 
+#profile-edit-form > div.editfield.field_736, 
+#profile-edit-form > div.editfield.field_793, 
+#profile-edit-form > div.editfield.field_794, 
+#profile-edit-form > div.editfield.field_795, 
+#profile-edit-form > div.editfield.field_796, 
+#profile-edit-form > div.editfield.field_797, 
+#profile-edit-form > div.editfield.field_478, 
+#profile-edit-form > div.editfield.field_479, 
+#profile-edit-form > div.editfield.field_480, 
+#profile-edit-form > div.editfield.field_481, 
+#profile-edit-form > div.editfield.field_482, 
+#profile-edit-form > div.editfield.field_798, 
+#profile-edit-form > div.editfield.field_799, 
+#profile-edit-form > div.editfield.field_800, 
+#profile-edit-form > div.editfield.field_801, 
+#profile-edit-form > div.editfield.field_802, 
+#profile-edit-form > div.editfield.field_803, 
+#profile-edit-form > div.editfield.field_804, 
+#profile-edit-form > div.editfield.field_805, 
+#profile-edit-form > div.editfield.field_806, 
+#profile-edit-form > div.editfield.field_807, 
+#profile-edit-form > div.editfield.field_808, 
+#profile-edit-form > div.editfield.field_809, 
+#profile-edit-form > div.editfield.field_810, 
+#profile-edit-form > div.editfield.field_811, 
+#profile-edit-form > div.editfield.field_812, 
+#profile-edit-form > div.editfield.field_813,
+#profile-edit-form > div.editfield.field_814,
+#profile-edit-form > div.editfield.field_815,
+#profile-edit-form > div.editfield.field_816,
+#profile-edit-form > div.editfield.field_817,
+#profile-edit-form > div.editfield.field_818,
+#profile-edit-form > div.editfield.field_819,
+#profile-edit-form > div.editfield.field_820,
+#profile-edit-form > div.editfield.field_821,
+#profile-edit-form > div.editfield.field_822,
+#profile-edit-form > div.editfield.field_823,
+#profile-edit-form > div.editfield.field_824,
+#profile-edit-form > div.editfield.field_825,
+#profile-edit-form > div.editfield.field_826,
+#profile-edit-form > div.editfield.field_827,
+#profile-edit-form > div.editfield.field_828,
+#profile-edit-form > div.editfield.field_65,
+#profile-edit-form > div.editfield.field_66,
+#profile-edit-form > div.editfield.field_67,
+#profile-edit-form > div.editfield.field_68,
+#profile-edit-form > div.editfield.field_69,
+#profile-edit-form > div.editfield.field_70,
+#profile-edit-form > div.editfield.field_71,
+#profile-edit-form > div.editfield.field_72,
+#profile-edit-form > div.editfield.field_73,
+#profile-edit-form > div.editfield.field_74,
+#profile-edit-form > div.editfield.field_75,
+#profile-edit-form > div.editfield.field_76,
+#profile-edit-form > div.editfield.field_77,
+#profile-edit-form > div.editfield.field_78,
+#profile-edit-form > div.editfield.field_79,
+#profile-edit-form > div.editfield.field_80,
+#profile-edit-form > div.editfield.field_81,
+#profile-edit-form > div.editfield.field_82,
+#profile-edit-form > div.editfield.field_83,
+#profile-edit-form > div.editfield.field_84,
+#groups-notification-settings-invitation, 
+#rtmedia-add-media-button-post-update > i, 
+#notifications-bulk-management > table > thead > tr > th.date, 
+#notifications-bulk-management > table > tbody > tr > td:nth-child(4), 
+#item-body > table > thead > tr > th.date, 
+#item-body > table > tbody > tr > td:nth-child(3), 
+#message-recipients > span, 
+div.message-search, 
+div.listing-title, .wpbdp-listing > div.contact-form > div > form > p:nth-child(6) > label, 
+a.em-button.button.add-new-h2, 
+#buddymenu-8 > h3, 
+#submit-job-form > fieldset.fieldset-job_title > label, 
+#submit-job-form > fieldset.fieldset-job_location > label, 
+#submit-job-form > fieldset.fieldset-application > label, 
+#submit-job-form > fieldset.fieldset-company_website > label, 
+#submit-job-form > fieldset.fieldset-company_tagline > label, 
+#submit-job-form > fieldset.fieldset-company_video > label, 
+#submit-job-form > fieldset.fieldset-company_name > label, 
+#submit-job-form > fieldset.fieldset-job_location > div > small, 
+#submit-job-form > h2, 
+#secondary, #content-sidebar, 
+/*REMOVING THE NAV MENU IN SETTINGS*/
+#general-personal-li, #notifications-personal-li, #profile-personal-li, #delete-account-personal-li, 
+/*HIDING THE MAIN MENU*/
+#masthead > div.header-main,/* aside#sidebar-sliding-panel.sidebar div.sp-wrap,*/ .site-info,
+#activity-filter-select, #adminbar-search, li.feed,  /*HIDING THE (1)SEARCH BAR FROM PRIMARY MENU (2)OPTION TO CHOOSE THE TYPE OF ACTIVITY THAT CAN VIEWED IN LOBBY LIKE UPDATE, NEW MEMBERS,  ETC (3)ADMIN BAR SEARCH (4) RSS FEED (5) REPEAT OF MENU TITLE */
 /*div.ac-reply-content > input[type="submit"]:nth-child(2),*/ /*HIDING THE SUBMIT BUTTONS IN COMMENTS*/
 /*div.ac-reply-content > a,*/ /*HIDING THE CANCEL BUTTONS IN COMMENTS*/
-p.activity-greeting,div.activity-header > p > a:nth-child(3) > span:nth-child(2),div.activity-header > p > a:nth-child(4) > span:nth-child(2),div.activity-header > p > a:nth-child(5) > span:nth-child(2),div.activity-header > p > a:nth-child(6) > span:nth-child(2),div.activity-header > p > a:nth-child(3) > img,div.activity-header > p > a.view.activity-time-since > span:nth-child(2),#whats-new-post-in-box,#whats-new-post-in,/*HIDE OPTIONS WHERE THE USER WILL POST*/
-#whats-new-avatar,#just-me-personal-li,#activity-mentions-personal-li,#activity-favs-personal-li,#activity-friends-personal-li,#activity-groups-personal-li,/*HIDING THE SUB MENU ITEMS: PERSONAL,MENTIONS,FAVOURITES,GROUPS FROM SCRAPBOOK AND PROFILE*/
-div.ac-reply-avatar,div.acomment-options > a:nth-child(1),/*FORCING REPLY TO REPLY IS DISABLED*/
-/.button.acomment-reply.bp-primary-action,*/ /*REMOVING THE COMMENT BUTTON AS COMMNET BOX IS VISIBLE ALWAYS*/
-.updated_profile,.friendship_created,.new_member,.new_avatar,.joined_group,/*HIDE ALL NON POST ITEMS FROM ACTIVITY STREAM*/
-#buddymenu-3.widget.widget_text h1.widget-title,/*HIDE BUDDYMENU*/
-#buddymenu-4.widget.widget_text h1.widget-title,#members-all > a,#members-personal,#members-all,/*HIDING THE MENU TABS FOR ALL MEMBERS AND CONNECTS */
-#members_search_submit,#groups-all,#groups-personal,#group-dir-count-top,#group-dir-count-bottom,#groups-list > li > div.action > div.meta,/* HIDE ALL GROUPS AND MY GROUPS AND VIEWING 1-6 of 6* AND PUBLIC/PVT with NO OF MEMBERS */
-#member-count-top,#member-count-bottom,#group_members-order-select,/*HIDE MEMBER COUNT AND ORDER BY*/
-#search-groups-form,/*HIDE SEARCH GROUP*/
-#groups-order-select,/*HIDE ORDER BY */
-#invite-groups-li,/****************** THERE IS NO NEED FOR INVITES AS OF NOW *******************/
-#item-header-avatar,#item-header-content,#item-actions,/#comments,*/
-#text-2 > h1,#secure_invite_form > form > fieldset > p:nth-child(1) > label,#secure_invite_form > form > fieldset > p:nth-child(2) > label,#secure_invite_form > form > fieldset > p:nth-child(3) > label,#secure_invite_personalmessage,#secure_invite_form > form > fieldset > p:nth-child(4) > label,#settings-form > label:nth-child(1),#settings-form > label:nth-child(4),#settings-form > label:nth-child(6),#settings-form > a,#xprofile-settings-professional-qualifications,#xprofile-settings-past-experience,#xprofile-settings-current-employment,#xprofile-settings-skills,#xprofile-settings-my-photos,#xprofile-settings-primary > tbody > tr.field_1.field_name.required-field.visibility-public.field_type_textbox,#xprofile-settings-primary > thead > tr > th.title.field-group-name,#profile-edit-form > div.editfield.field_72.field_joining-date.optional-field.visibility-public.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_73.field_leaving-date.optional-field.visibility-public.alt.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_74.field_joining-date.optional-field.visibility-public.alt.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_78.field_leaving-date.optional-field.visibility-public.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_77.field_joining-date.optional-field.visibility-public.alt.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_83.field_leaving-date.optional-field.visibility-public.alt.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_82.field_joining-date.optional-field.visibility-public.field_type_datebox > p.description,#profile-edit-form > div.editfield.field_176.field_starting-date.optional-field.visibility-loggedin.alt.field_type_datebox > p,/************************START: HIDING ALL LABELS FOR FIELDS *********************************************/
-#profile-edit-form > div.editfield.field_1 > label,#profile-edit-form > div.editfield.field_58 > label,#profile-edit-form > div.editfield.field_59 > label,#profile-edit-form > div.editfield.field_60 > label,#profile-edit-form > div.editfield.field_62 > label,#profile-edit-form > div.editfield.field_65 > label,#profile-edit-form > div.editfield.field_66 > label,#profile-edit-form > div.editfield.field_68 > label,#profile-edit-form > div.editfield.field_67 > label,#profile-edit-form > div.editfield.field_69 > label,#profile-edit-form > div.editfield.field_70 > label,#profile-edit-form > div.editfield.field_71 > label,#profile-edit-form > div.editfield.field_72 > label,#profile-edit-form > div.editfield.field_73 > label,#profile-edit-form > div.editfield.field_74 > label,#profile-edit-form > div.editfield.field_75 > label,#profile-edit-form > div.editfield.field_76 > label,#profile-edit-form > div.editfield.field_77 > label,#profile-edit-form > div.editfield.field_78 > label,#profile-edit-form > div.editfield.field_79 > label,#profile-edit-form > div.editfield.field_80 > label,#profile-edit-form > div.editfield.field_81 > label,#profile-edit-form > div.editfield.field_82 > label,#profile-edit-form > div.editfield.field_83 > label,#profile-edit-form > div.editfield.field_84 > label,#profile-edit-form > div.editfield.field_174 > label,#profile-edit-form > div.editfield.field_175 > label,#profile-edit-form > div.editfield.field_176 > label,#profile-edit-form > div.editfield.field_177 > label
-#profile-edit-form > div.editfield.field_185 > label,#profile-edit-form > div.editfield.field_193 > label,#profile-edit-form > div.editfield.field_196 > label,#profile-edit-form > div.editfield.field_197 > label,#profile-edit-form > div.editfield.field_265.field_diploma-award-certificate-name > label,#profile-edit-form > div.editfield.field_266.field_additional-details > label,#profile-edit-form > div.editfield.field_277.field_diploma-award-or-certificate-name > label,#profile-edit-form > div.editfield.field_279.field_additional-details > label,#profile-edit-form > div.editfield.field_278.field_diploma-award-or-certificate-name > label,#profile-edit-form > div.editfield.field_280.field_additional-details.optional-field > label,#profile-edit-form > div.editfield.field_478.field_institute > label,#profile-edit-form > div.editfield.field_479.field_course-name > label,#profile-edit-form > div.editfield.field_482.field_details > label,#profile-edit-form > div.editfield.field_483 > label,#profile-edit-form > div.editfield.field_489 > label,#profile-edit-form > div.editfield.field_493 > label,#profile-edit-form > div.editfield.field_494 > label,#profile-edit-form > div.editfield.field_495 > label,#profile-edit-form > div.editfield.field_496 > label,#profile-edit-form > div.editfield.field_497 > label,#profile-edit-form > div.editfield.field_501 > label,#profile-edit-form > div.editfield.field_502 > label,#profile-edit-form > div.editfield.field_505 > label,#profile-edit-form > div.editfield.field_506 > label,#profile-edit-form > div.editfield.field_510 > label,#profile-edit-form > div.editfield.field_511 > label,#profile-edit-form > div.editfield.field_514 > label,#profile-edit-form > div.editfield.field_515 > label,#profile-edit-form > div.editfield.field_518 > label,#profile-edit-form > div.editfield.field_519 > label,#profile-edit-form > div.editfield.field_522 > label,#profile-edit-form > div.editfield.field_523 > label,#profile-edit-form > div.editfield.field_526 > label,#profile-edit-form > div.editfield.field_527 > label,#profile-edit-form > div.editfield.field_530 > label,#profile-edit-form > div.editfield.field_531 > label,#profile-edit-form > div.editfield.field_534 > label,#profile-edit-form > div.editfield.field_535 > label,#profile-edit-form > div.editfield.field_538 > label,#profile-edit-form > div.editfield.field_539 > label,#profile-edit-form > div.editfield.field_542 > label,#profile-edit-form > div.editfield.field_543 > label,#profile-edit-form > div.editfield.field_544 > label,#profile-edit-form > div.editfield.field_545 > label,#profile-edit-form > div.editfield.field_546 > label,#profile-edit-form > div.editfield.field_687 > label,#profile-edit-form > div.editfield.field_731 > label,#profile-edit-form > div.editfield.field_732 > label,#profile-edit-form > div.editfield.field_735 > label,#profile-edit-form > div.editfield.field_736 > label,#profile-edit-form > div.editfield.field_793 > label,#profile-edit-form > div.editfield.field_794 > label,#profile-edit-form > div.editfield.field_797 > label,#profile-edit-form > div.editfield.field_798 > label,#profile-edit-form > div.editfield.field_799 > label,#profile-edit-form > div.editfield.field_802 > label,#profile-edit-form > div.editfield.field_803 > label,#profile-edit-form > div.editfield.field_804 > label,#profile-edit-form > div.editfield.field_807 > label,#profile-edit-form > div.editfield.field_808 > label,#profile-edit-form > div.editfield.field_809 > label,#profile-edit-form > div.editfield.field_812 > label,#field-visibility-settings-toggle-198,/*****REMOVING THE VIEW,EDIT AND CHANGE AVATAR BUTTONS******/
-#public-personal-li,#edit-personal-li,#change-avatar-personal-li,/*HIDING ALL LABELS IN PROFILE***/
-td.label,/* REMOVING THE LABELS FOR PICTURES,MY SKILLS,CONTACT */
-tr.field_49.field_head-shot.optional-field.visibility-public.field_type_image td.label,tr.field_50.field_full-length-shot.optional-field.visibility-public.field_type_image td.label,tr.field_40.field_my-skills.optional-field.visibility-public.field_type_checkbox td.label,.bp-widget.contact h4,.bp-widget.primary h4,.bp-widget.my-photos h4,#event-form > div > h3.event-form-name,#event-form > div > h3.event-form-when,#event-form > div > h3.event-form-where,#em-location-data > table > tbody > tr > th,#location-form > h3.location-form-name,#location-form > h3.location-form-where,/*APPLYING BORDERS AROUND THE TABLE HEADERS AND APPLYING FORMATTING */
-#dbem-bookings-table > thead > tr > th,#posts-filter > table > thead > tr > th,#locations-filter > table > thead > tr > th,#locations-filter > table > tfoot > tr > th,#dbem-bookings-table > thead > tr > th,#posts-filter > div.table-wrap > table > thead > tr > th,#post-body-content > div > div > form > table.em-tickets-bookings-table > thead > tr > th,#em-tickets-form > table > thead > tr > th,#em-wrapper > div.css-events-list > table > thead > tr > th,/*PREVENT VIEW WITH WP DASHBOARD */
-tr.em-tickets-row > td.ticket-name > div.ticket-actions > a:nth-child(2),#em-wrapper > div.em-search-wrapper > div > form > div.em-search-advanced,#em-wrapper > div.em-search-wrapper > div > form > div.em-search-options,#map_g,/*since no of spaces is disabled,hide this also*/
-#dbem-bookings-table > tbody > tr > td:nth-child(3),#my-locations-personal-li,#posts-filter > p > input.button,#posts-filter > p > label,#em-bookings-table-settings-trigger,#posts-filter > div.table-wrap > table > tbody > tr > td:nth-child(2),#dbem-bookings-table > tbody > tr > td:nth-child(5),#dbem-bookings-table > tbody > tr > td:nth-child(6),#dbem-bookings-table > tbody > tr > td:nth-child(7),nav.navigation.post-navigation,#em-wrapper > div.css-events-list > table > tbody > tr > td:nth-child(2) > br,div.showing_jobs > a.rss_link,div.single_job_listing .wpcf7-form p:nth-child(2),div.single_job_listing .wpcf7-form p:nth-child(2),div.single_job_listing .wpcf7-form p:nth-child(3),div.single_job_listing .wpcf7-form p:nth-child(4),#submit-job-form > fieldset:nth-child(1),#dwqa-submit-question-form > div:nth-child(1) > div > div.select-category > label,#dwqa-submit-question-form > div:nth-child(1) > div > div.input-tag > label,#dwqa-submit-question-form > div.input-title > label,#dwqa-submit-question-form > div:nth-child(3) > div.input-content > label,div.dwqa-comment-author > span.dwqa-date > strong,div.dwqa-privacy,div.dwqa-question div.dwqa-author > img,div.dwqa-question span.author,div.dwqa-question span.dwqa-author,div.dwqa-question > header > div.dwqa-author > span.dwqa-date,div.dwqa-content > span > a,.dwqa-single-question .dwqa-favourite,#wpbdp-search-page > h2,#wpbdp-search-page > div.wpbdp-bar.cf,#post-275 > div > p:nth-child(1),/* HIDING THE DUMMY FIELD FROM SUBMIT SALON FORM*/
-#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-21.wpbdp-form-field-type-textfield.wpbdp-form-field-label-dummy.wpbdp-form-field-association-meta.textfield,#wpbdp-field-5-title,div.contact-form > div > p,div.contact-form > div > form > p:nth-child(5),#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-1.wpbdp-form-field-type-textfield.wpbdp-form-field-label-salon_name.wpbdp-form-field-association-title.textfield.required > div.wpbdp-form-field-label > label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-20.wpbdp-form-field-type-textarea.wpbdp-form-field-label-address.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label > label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-6.wpbdp-form-field-type-textfield.wpbdp-form-field-label-phone_number.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-html.wpbdp-form-field-inner > span:nth-child(1),#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-html.wpbdp-form-field-inner > span:nth-child(3),#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-8.wpbdp-form-field-type-textfield.wpbdp-form-field-label-email.wpbdp-form-field-association-meta.textfield.email > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-3.wpbdp-form-field-type-textfield.wpbdp-form-field-label-employee_value_proposition.wpbdp-form-field-association-excerpt.textfield.required > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-3.wpbdp-form-field-type-textfield.wpbdp-form-field-label-employee_value_proposition.wpbdp-form-field-association-excerpt.textfield.required > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-19.wpbdp-form-field-type-textarea.wpbdp-form-field-label-details.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-11.wpbdp-form-field-type-textfield.wpbdp-form-field-label-incentive.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-13.wpbdp-form-field-type-textfield.wpbdp-form-field-label-leave_policy.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-4.wpbdp-form-field-type-textarea.wpbdp-form-field-label-video_link.wpbdp-form-field-association-content.textarea.required > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > div.wpbdp-form-field.terms-and-conditions.required > div.wpbdp-form-field-label,#wpbdp-listing-form-fields > legend,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-11.wpbdp-form-field-type-textarea.wpbdp-form-field-label-incentive.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label > label,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-24.wpbdp-form-field-type-textfield.wpbdp-form-field-label-email_id.wpbdp-form-field-association-meta.textfield.email.required > div.wpbdp-form-field-label,div.activity-content > div.activity-header > p > a:nth-child(2) > img,h1.entry-header,#events-personal-li,#media-personal-li,#groups-personal-li,div.item-list-tabs.activity-type-tabs,#em-wrapper > div.em-search-wrapper > div > form > div.em-search-main > div.em-search-geo.em-search-field,#em-wrapper > div.em-search-wrapper > div > form > div.em-search-main > button,#archive-question > div > div.dwqa-search > form > span.dwqa-search-submit.fa.fa-search,div.dwqa-question > header > div.dwqa-meta > div.dwqa-category,#submit-job-form > fieldset.fieldset-company_twitter,div.questions-list > .dwqa-question > header.dwqa-header > div.dwqa-meta > span.dwqa-author,a.company_twitter.external,#post-495 > div > span,.edit-link,div.listing-details.cf.with-image > div.field-value.wpbdp-field-genre.wpbdp-field-category,.rtmedia-list-item.masonry-brick > a > div.rtmedia-item-title,.rtmedia-gallery-item-actions > a:nth-child(1),#supplementary{display:none}#object-nav,#member-list > li > span,#post-0 > header > h1,#send_message_form > label:nth-child(1),#send_message_form > label:nth-child(3),#send_message_form > label:nth-child(5),/*HIDING LABELS FOR COMPOSE*/
-div.wpbdp-bar.cf > div,#post-275 > div > p:nth-child(1),#wpbdmsearchsubmit,#wpbdp-view-listings-page > div.wpbdp-bar.cf,div > br,#wp-admin-bar-search,#wp-admin-bar-search > div{display:none!important}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{font-family:Lato,sans-serif,arial!important}#notification-bulk-manage,#messages-bulk-manage,div.contact-form > div > form > input.submit,#wpbdp-search-form > p > input.submit,#submit-job-form > p > input.button,#profile-group-edit-submit,#upload,input.wpcf7-form-control.wpcf7-submit,#rt_media_comment_submit,#send_reply_button,#send,#secure_invite_send,#delete-account-button,#submit,#avatar-upload-form > p:nth-child(6) > a,#wpcf7-f233-p231-o1 > form > p:nth-child(6) > input,#event-form > p > input[type="submit"],#location-form > p > input,#em-booking-submit-modify,#em-booking-notes > div > form > input[type="submit"],#em-booking-submit,tr.em-tickets-row-form > td > div.em-ticket-form-actions > button,#job_preview_submit_button,#archive-question > div > div.filter-bar > a,#archive-question > div > div.archive-question-footer > a,#dwqa-submit-question-form > div.form-submit > input,#submit-answer,#bps_auto122 > div.submit > input[type="submit"]{text-transform:capitalize;background:#344152!important;border:none!important;color:#fff!important;font-weight:600}#wpbdp-listing-form-categories > input[type="submit"]:nth-child(3),#wpbdp-listing-form-fields > input[type="submit"]:nth-child(22),#wpbdp-search-form > p > input.reset{color:#344152!important;border:1px solid #344152!important;font-weight:600;background:#fff}#item-body > table > thead > tr > th{background:#BEC8D2!important;text-transform:capitalize!important}#buddypress #whats-new:focus{border-color:rgba(0,0,0,.4)!important;outline-color:rgba(0,0,0,.4)}#buddypress .standard-form input[type=text],#buddypress .standard-form textarea,#buddypress .standard-form input[type=email],#buddypress .standard-form input[type=number]{width:100%}#buddypress .standard-form label{display:inline}#buddypress .standard-form label,#buddypress .standard-form select{font-size:10px}#buddypress .standard-form div.submit input{display:block;margin:0 auto}#wp-admin-bar-my-account > div,#wp-admin-bar-Profile_Edit > div{position:absolute;bottom:100%;overflow:scroll}#wp-admin-bar-bp-notifications > div{width:auto!important;right:0!important}#wp-admin-bar-Profile_Edit-default > li{border-bottom:1px solid #f6f6f6!important}#wp-admin-bar-Profile_Edit-default > li > a{color:#000!important}#wpadminbar{position:fixed!important;min-width:10%!important}#wp-admin-bar-top-secondary > li,#wp-admin-bar-root-default > li{display:block!important}#wp-admin-bar-root-default > li{margin-right:6%!important}#wp-admin-bar-bp-notifications-default > li > a{color:#000!important}#wp-admin-bar-bp-notifications > div{position:absolute;bottom:100%}#wp-admin-bar-bp-notifications-default{background:#344152!important}#wp-admin-bar-bp-notifications-default > li > a{font-size:12px!important;color:#fff!important}#wp-admin-bar-Beauticians,#wp-admin-bar-Hair_Stylists,#wp-admin-bar-Spa_Therapists,#wp-admin-bar-makeup_artists,#wp-admin-bar-tattoo_artists,#wp-admin-bar-nail_artists,#wp-admin-bar-consultants,#wp-admin-bar-trainers,#wp-admin-bar-trainees,#wp-admin-bar-Home,#wp-admin-bar-my_inbox,#wp-admin-bar-my_activity,#wp-admin-bar-Invite{float:right!important}#wp-admin-bar-logout{margin:0!important}#wp-admin-bar-my_activity > a{text-transform:capitalize}#wp-admin-bar-my-account > div,#wp-admin-bar-user-actions{background:#fff!important}#wp-admin-bar-logout > a,#wp-admin-bar-my-account-default > li > a{color:#000!important}#wp-admin-bar-my-account-default li{border-bottom:1px solid #e3e3e3}#wp-admin-bar-dummy2 > div,#wp-admin-bar-admin-bar-dummy1-button{visibility:hidden}#wp-admin-bar-admin-bar-avatar-button > a > img{max-width:20px;max-height:20px}#wp-admin-bar-admin-bar-labelbrand-button > div,#wp-admin-bar-admin-bar-labelcareer-button > div,#wp-admin-bar-wpbdp-bar-BS-label-button > div,#wp-admin-bar-settings_label > div,#wp-admin-bar-usage_label > div{color:#777!important;text-transform:uppercase;font-size:12px!important;font-weight:800!important;letter-spacing:2px}#wp-admin-bar-admin-bar-labelbrand-button,#wp-admin-bar-admin-bar-labelcareer-button,#wp-admin-bar-wpbdp-bar-BS-label-button,#wp-admin-bar-settings_label,#wp-admin-bar-usage_label{background:#e3e3e3!important}#wp-admin-bar-logout > a:before{content:url(https://dl.dropboxusercontent.com/s/loqat22ybggybsi/logout.png?dl=0) "\00a0"}#wpadminbar .ab-top-secondary .menupop .ab-sub-wrapper{height:auto;min-height:50%;max-height:700%}START OF PROFILE VIEW
+p.activity-greeting,
+div.activity-header > p > a:nth-child(3) > span:nth-child(2),
+div.activity-header > p > a:nth-child(4) > span:nth-child(2),
+div.activity-header > p > a:nth-child(5) > span:nth-child(2),
+div.activity-header > p > a:nth-child(6) > span:nth-child(2),
+div.activity-header > p > a:nth-child(3) > img,
+div.activity-header > p > a.view.activity-time-since > span:nth-child(2),
+#whats-new-post-in-box, #whats-new-post-in, /*HIDE OPTIONS WHERE THE USER WILL POST*/
+#whats-new-avatar,
+#just-me-personal-li, #activity-mentions-personal-li, #activity-favs-personal-li, #activity-friends-personal-li, #activity-groups-personal-li, /*HIDING THE SUB MENU ITEMS: PERSONAL, MENTIONS, FAVOURITES, GROUPS  FROM SCRAPBOOK AND PROFILE*/
+div.ac-reply-avatar,
+div.acomment-options > a:nth-child(1),/*FORCING REPLY TO REPLY IS DISABLED*/
+/*.button.acomment-reply.bp-primary-action,*/ /*REMOVING THE COMMENT BUTTON AS COMMNET BOX IS VISIBLE ALWAYS*/
+.updated_profile, .friendship_created, .new_member, .new_avatar, .joined_group,/*HIDE ALL NON POST ITEMS FROM ACTIVITY STREAM*/
+#buddymenu-3.widget.widget_text h1.widget-title, /*HIDE BUDDYMENU*/
+#buddymenu-4.widget.widget_text h1.widget-title,
+#members-all > a, #members-personal, #members-all, /*HIDING THE MENU TABS FOR ALL MEMBERS AND CONNECTS */
+#members_search_submit,
+#groups-all, #groups-personal, #group-dir-count-top, #group-dir-count-bottom, #groups-list > li > div.action > div.meta, /* HIDE ALL GROUPS AND MY GROUPS AND VIEWING 1-6 of 6* AND PUBLIC/PVT with NO OF MEMBERS */
+#member-count-top, #member-count-bottom, #group_members-order-select, /*HIDE MEMBER COUNT AND ORDER BY*/
+#search-groups-form, /*HIDE SEARCH GROUP*/
+#groups-order-select, /*HIDE ORDER BY */
+#invite-groups-li, /****************** THERE IS NO NEED FOR INVITES AS OF NOW *******************/
+#item-header-avatar, #item-header-content, #item-actions,
+/*#comments,*/
+#text-2 > h1, #secure_invite_form > form > fieldset > p:nth-child(1) > label, #secure_invite_form > form > fieldset > p:nth-child(2) > label, #secure_invite_form > form > fieldset > p:nth-child(3) > label, #secure_invite_personalmessage, #secure_invite_form > form > fieldset > p:nth-child(4) > label,
+#settings-form > label:nth-child(1), 
+#settings-form > label:nth-child(4),
+#settings-form > label:nth-child(6),
+#settings-form > a,
+#xprofile-settings-professional-qualifications,
+#xprofile-settings-past-experience,
+#xprofile-settings-current-employment,
+#xprofile-settings-skills,
+#xprofile-settings-my-photos,
+#xprofile-settings-primary > tbody > tr.field_1.field_name.required-field.visibility-public.field_type_textbox,
+#xprofile-settings-primary > thead > tr > th.title.field-group-name,
+#profile-edit-form > div.editfield.field_72.field_joining-date.optional-field.visibility-public.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_73.field_leaving-date.optional-field.visibility-public.alt.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_74.field_joining-date.optional-field.visibility-public.alt.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_78.field_leaving-date.optional-field.visibility-public.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_77.field_joining-date.optional-field.visibility-public.alt.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_83.field_leaving-date.optional-field.visibility-public.alt.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_82.field_joining-date.optional-field.visibility-public.field_type_datebox > p.description,
+#profile-edit-form > div.editfield.field_176.field_starting-date.optional-field.visibility-loggedin.alt.field_type_datebox > p,
+
+
+/************************START: HIDING ALL LABELS FOR FIELDS *********************************************/
+#profile-edit-form > div.editfield.field_1 > label,
+#profile-edit-form > div.editfield.field_58 > label,
+#profile-edit-form > div.editfield.field_59 > label,
+#profile-edit-form > div.editfield.field_60 > label,
+#profile-edit-form > div.editfield.field_62 > label,
+#profile-edit-form > div.editfield.field_65 > label,
+#profile-edit-form > div.editfield.field_66 > label,
+#profile-edit-form > div.editfield.field_68 > label,
+#profile-edit-form > div.editfield.field_67 > label,
+#profile-edit-form > div.editfield.field_69 > label,
+#profile-edit-form > div.editfield.field_70 > label,
+#profile-edit-form > div.editfield.field_71 > label,
+#profile-edit-form > div.editfield.field_72 > label,
+#profile-edit-form > div.editfield.field_73 > label,
+#profile-edit-form > div.editfield.field_74 > label,
+#profile-edit-form > div.editfield.field_75 > label,
+#profile-edit-form > div.editfield.field_76 > label,
+#profile-edit-form > div.editfield.field_77 > label,
+#profile-edit-form > div.editfield.field_78 > label,
+#profile-edit-form > div.editfield.field_79 > label,
+#profile-edit-form > div.editfield.field_80 > label,
+#profile-edit-form > div.editfield.field_81 > label,
+#profile-edit-form > div.editfield.field_82 > label,
+#profile-edit-form > div.editfield.field_83 > label,
+#profile-edit-form > div.editfield.field_84 > label,
+#profile-edit-form > div.editfield.field_174 > label,
+#profile-edit-form > div.editfield.field_175 > label,
+#profile-edit-form > div.editfield.field_176 > label,
+#profile-edit-form > div.editfield.field_177 > label
+#profile-edit-form > div.editfield.field_185 > label,
+#profile-edit-form > div.editfield.field_193 > label,
+#profile-edit-form > div.editfield.field_196 > label,
+#profile-edit-form > div.editfield.field_197 > label,
+#profile-edit-form > div.editfield.field_265.field_diploma-award-certificate-name > label, 
+#profile-edit-form > div.editfield.field_266.field_additional-details > label, 
+#profile-edit-form > div.editfield.field_277.field_diploma-award-or-certificate-name > label,  
+#profile-edit-form > div.editfield.field_279.field_additional-details > label,  
+#profile-edit-form > div.editfield.field_278.field_diploma-award-or-certificate-name > label,  
+#profile-edit-form > div.editfield.field_280.field_additional-details.optional-field > label,  
+#profile-edit-form > div.editfield.field_478.field_institute > label, 
+#profile-edit-form > div.editfield.field_479.field_course-name > label, 
+#profile-edit-form > div.editfield.field_482.field_details > label, 
+#profile-edit-form > div.editfield.field_483 >  label, 
+#profile-edit-form > div.editfield.field_489 >  label, 
+#profile-edit-form > div.editfield.field_493 >  label, 
+#profile-edit-form > div.editfield.field_494 >  label, 
+#profile-edit-form > div.editfield.field_495 >  label, 
+#profile-edit-form > div.editfield.field_496 >  label, 
+#profile-edit-form > div.editfield.field_497 >  label, 
+#profile-edit-form > div.editfield.field_501 >  label, 
+#profile-edit-form > div.editfield.field_502 >  label, 
+#profile-edit-form > div.editfield.field_505 >  label, 
+#profile-edit-form > div.editfield.field_506 >  label, 
+#profile-edit-form > div.editfield.field_510 >  label, 
+#profile-edit-form > div.editfield.field_511 >  label, 
+#profile-edit-form > div.editfield.field_514 >  label, 
+#profile-edit-form > div.editfield.field_515 >  label, 
+#profile-edit-form > div.editfield.field_518 >  label, 
+#profile-edit-form > div.editfield.field_519 >  label, 
+#profile-edit-form > div.editfield.field_522 >  label, 
+#profile-edit-form > div.editfield.field_523 >  label, 
+#profile-edit-form > div.editfield.field_526 >  label, 
+#profile-edit-form > div.editfield.field_527 >  label, 
+#profile-edit-form > div.editfield.field_530 >  label, 
+#profile-edit-form > div.editfield.field_531 >  label, 
+#profile-edit-form > div.editfield.field_534 >  label, 
+#profile-edit-form > div.editfield.field_535 >  label, 
+#profile-edit-form > div.editfield.field_538 >  label, 
+#profile-edit-form > div.editfield.field_539 >  label, 
+#profile-edit-form > div.editfield.field_542 >  label, 
+#profile-edit-form > div.editfield.field_543 >  label, 
+#profile-edit-form > div.editfield.field_544 >  label, 
+#profile-edit-form > div.editfield.field_545 >  label, 
+#profile-edit-form > div.editfield.field_546 >  label, 
+#profile-edit-form > div.editfield.field_687 >  label, 
+#profile-edit-form > div.editfield.field_731 >  label, 
+#profile-edit-form > div.editfield.field_732 >  label, 
+#profile-edit-form > div.editfield.field_735 >  label, 
+#profile-edit-form > div.editfield.field_736 >  label, 
+#profile-edit-form > div.editfield.field_793 >  label, 
+#profile-edit-form > div.editfield.field_794 >  label, 
+#profile-edit-form > div.editfield.field_797 >  label, 
+#profile-edit-form > div.editfield.field_798 >  label, 
+#profile-edit-form > div.editfield.field_799 >  label, 
+#profile-edit-form > div.editfield.field_802 >  label, 
+#profile-edit-form > div.editfield.field_803 >  label, 
+#profile-edit-form > div.editfield.field_804 >  label, 
+#profile-edit-form > div.editfield.field_807 >  label, 
+#profile-edit-form > div.editfield.field_808 >  label, 
+#profile-edit-form > div.editfield.field_809 >  label, 
+#profile-edit-form > div.editfield.field_812 >  label, 
+#field-visibility-settings-toggle-198,
+
+/*****REMOVING THE VIEW, EDIT AND CHANGE AVATAR BUTTONS******/
+#public-personal-li,
+#edit-personal-li,
+#change-avatar-personal-li,
+/*HIDING ALL LABELS IN PROFILE***/
+td.label,
+/* REMOVING THE LABELS FOR PICTURES, MY SKILLS, CONTACT */
+tr.field_49.field_head-shot.optional-field.visibility-public.field_type_image td.label, tr.field_50.field_full-length-shot.optional-field.visibility-public.field_type_image td.label, tr.field_40.field_my-skills.optional-field.visibility-public.field_type_checkbox td.label, .bp-widget.contact h4,.bp-widget.primary h4, .bp-widget.my-photos h4,
+#event-form > div > h3.event-form-name, 
+#event-form > div > h3.event-form-when, 
+#event-form > div > h3.event-form-where,
+#em-location-data > table > tbody > tr > th,
+#location-form > h3.location-form-name,
+#location-form > h3.location-form-where,
+/*APPLYING BORDERS AROUND THE TABLE HEADERS AND APPLYING FORMATTING */
+#dbem-bookings-table > thead > tr > th,
+#posts-filter > table > thead > tr > th,
+#locations-filter > table > thead > tr > th,
+#locations-filter > table > tfoot > tr > th,
+#dbem-bookings-table > thead > tr > th,
+#posts-filter > div.table-wrap > table > thead > tr > th,
+#post-body-content > div > div > form > table.em-tickets-bookings-table > thead > tr > th,
+#em-tickets-form > table > thead > tr > th,
+#em-wrapper > div.css-events-list > table > thead > tr > th,
+/*PREVENT VIEW WITH WP DASHBOARD */
+tr.em-tickets-row > td.ticket-name > div.ticket-actions > a:nth-child(2),
+#em-wrapper > div.em-search-wrapper > div > form > div.em-search-advanced,
+#em-wrapper > div.em-search-wrapper > div > form > div.em-search-options,
+#map_g,
+/*since no of spaces is disabled , hide this also*/
+#dbem-bookings-table > tbody > tr > td:nth-child(3),
+#my-locations-personal-li, #posts-filter > p > input.button, #posts-filter > p > label,
+#em-bookings-table-settings-trigger, #posts-filter > div.table-wrap > table > tbody > tr > td:nth-child(2), #dbem-bookings-table > tbody > tr > td:nth-child(5), #dbem-bookings-table > tbody > tr > td:nth-child(6), #dbem-bookings-table > tbody > tr > td:nth-child(7), nav.navigation.post-navigation,
+#em-wrapper > div.css-events-list > table > tbody > tr > td:nth-child(2) > br,
+div.showing_jobs > a.rss_link,
+div.single_job_listing .wpcf7-form p:nth-child(2), div.single_job_listing .wpcf7-form p:nth-child(2), div.single_job_listing .wpcf7-form p:nth-child(3), div.single_job_listing .wpcf7-form p:nth-child(4),
+#submit-job-form > fieldset:nth-child(1),
+#dwqa-submit-question-form > div:nth-child(1) > div > div.select-category > label, 
+#dwqa-submit-question-form > div:nth-child(1) > div > div.input-tag > label, 
+#dwqa-submit-question-form > div.input-title > label,
+#dwqa-submit-question-form > div:nth-child(3) > div.input-content > label,
+div.dwqa-comment-author > span.dwqa-date > strong,
+div.dwqa-privacy,
+div.dwqa-question div.dwqa-author > img, div.dwqa-question span.author, 
+div.dwqa-question span.dwqa-author, div.dwqa-question > header > div.dwqa-author > span.dwqa-date,
+div.dwqa-content > span > a,
+.dwqa-single-question .dwqa-favourite,
+#wpbdp-search-page > h2,
+#wpbdp-search-page > div.wpbdp-bar.cf, #post-275 > div > p:nth-child(1),
+/* HIDING THE DUMMY FIELD FROM SUBMIT SALON FORM*/
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-21.wpbdp-form-field-type-textfield.wpbdp-form-field-label-dummy.wpbdp-form-field-association-meta.textfield,
+#wpbdp-field-5-title,
+div.contact-form > div > p, div.contact-form > div > form > p:nth-child(5),
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-1.wpbdp-form-field-type-textfield.wpbdp-form-field-label-salon_name.wpbdp-form-field-association-title.textfield.required > div.wpbdp-form-field-label > label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-20.wpbdp-form-field-type-textarea.wpbdp-form-field-label-address.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label > label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-6.wpbdp-form-field-type-textfield.wpbdp-form-field-label-phone_number.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-html.wpbdp-form-field-inner > span:nth-child(1),
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-5.wpbdp-form-field-type-url.wpbdp-form-field-label-business_website_address.wpbdp-form-field-association-meta.url > div.wpbdp-form-field-html.wpbdp-form-field-inner > span:nth-child(3),
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-8.wpbdp-form-field-type-textfield.wpbdp-form-field-label-email.wpbdp-form-field-association-meta.textfield.email > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-3.wpbdp-form-field-type-textfield.wpbdp-form-field-label-employee_value_proposition.wpbdp-form-field-association-excerpt.textfield.required > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-3.wpbdp-form-field-type-textfield.wpbdp-form-field-label-employee_value_proposition.wpbdp-form-field-association-excerpt.textfield.required > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-19.wpbdp-form-field-type-textarea.wpbdp-form-field-label-details.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-11.wpbdp-form-field-type-textfield.wpbdp-form-field-label-incentive.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-13.wpbdp-form-field-type-textfield.wpbdp-form-field-label-leave_policy.wpbdp-form-field-association-meta.textfield > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-4.wpbdp-form-field-type-textarea.wpbdp-form-field-label-video_link.wpbdp-form-field-association-content.textarea.required > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.terms-and-conditions.required > div.wpbdp-form-field-label,
+#wpbdp-listing-form-fields > legend,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-11.wpbdp-form-field-type-textarea.wpbdp-form-field-label-incentive.wpbdp-form-field-association-meta.textarea > div.wpbdp-form-field-label > label,
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-24.wpbdp-form-field-type-textfield.wpbdp-form-field-label-email_id.wpbdp-form-field-association-meta.textfield.email.required > div.wpbdp-form-field-label,
+div.activity-content > div.activity-header > p > a:nth-child(2) > img,
+h1.entry-header,
+#events-personal-li, #media-personal-li, #groups-personal-li,
+div.item-list-tabs.activity-type-tabs,
+#em-wrapper > div.em-search-wrapper > div > form > div.em-search-main > div.em-search-geo.em-search-field,
+#em-wrapper > div.em-search-wrapper > div > form > div.em-search-main > button,
+#archive-question > div > div.dwqa-search > form > span.dwqa-search-submit.fa.fa-search,
+div.dwqa-question > header > div.dwqa-meta > div.dwqa-category,
+#submit-job-form > fieldset.fieldset-company_twitter,
+div.questions-list > .dwqa-question > header.dwqa-header > div.dwqa-meta > span.dwqa-author,
+a.company_twitter.external,
+#post-495 > div > span, 
+.edit-link, 
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-genre.wpbdp-field-category, 
+.rtmedia-list-item.masonry-brick > a > div.rtmedia-item-title,
+.rtmedia-gallery-item-actions > a:nth-child(1),
+#supplementary
+{
+display: none;
+}
+#object-nav,
+#member-list > li > span, 
+#post-0 > header > h1, 
+#send_message_form > label:nth-child(1), #send_message_form > label:nth-child(3), #send_message_form > label:nth-child(5),/*HIDING LABELS FOR COMPOSE*/
+div.wpbdp-bar.cf > div, #post-275 > div > p:nth-child(1), #wpbdmsearchsubmit, #wpbdp-view-listings-page > div.wpbdp-bar.cf,
+div > br, #wp-admin-bar-search,#wp-admin-bar-search > div
+{
+display: none !important;
+}
+
+/******************************************************************************
+******************************************************************************
+END OF DISPLAY:NONE
+******************************************************************************
+******************************************************************************/
+/******************************************************************************
+******************************************************************************
+START OF GENERAL LAYOUT
+******************************************************************************
+******************************************************************************/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {font-family: Lato, sans-serif, arial !important;}
+
+
+
+/**************SUBMIT BUTTONS MAKE THIS THE STANDARD***********************
+***************************************************************************
+**************************************************************************/
+#notification-bulk-manage, 
+#messages-bulk-manage, 
+div.contact-form > div > form > input.submit, 
+#wpbdp-search-form > p > input.submit, 
+#submit-job-form > p > input.button, 
+#profile-group-edit-submit,
+#upload,
+input.wpcf7-form-control.wpcf7-submit, 
+#rt_media_comment_submit,
+#send_reply_button,
+#send,
+#secure_invite_send, 
+#delete-account-button,
+#submit,
+#avatar-upload-form > p:nth-child(6) > a,
+#wpcf7-f233-p231-o1 > form > p:nth-child(6) > input,
+#event-form > p > input[type="submit"],
+#location-form > p > input,
+#em-booking-submit-modify,
+#em-booking-notes > div > form > input[type="submit"],
+#em-booking-submit,
+tr.em-tickets-row-form > td > div.em-ticket-form-actions > button,
+#job_preview_submit_button,
+#archive-question > div > div.filter-bar > a, #archive-question > div > div.archive-question-footer > a, #dwqa-submit-question-form > div.form-submit > input, #submit-answer, #bps_auto122 > div.submit > input[type="submit"]
+{
+text-transform: capitalize;
+background: #344152 !important;
+border: none !important;
+color: #fff !important;
+font-weight: 600;
+}/**************SUBMIT BUTTONS MAKE THIS THE COUNTER STANDARD***********************
+***************************************************************************
+**************************************************************************/
+#wpbdp-listing-form-categories > input[type="submit"]:nth-child(3), 
+#wpbdp-listing-form-fields > input[type="submit"]:nth-child(22), 
+#wpbdp-search-form > p > input.reset{
+color: #344152 !important;
+border: 1px solid #344152 !important;
+font-weight: 600;
+background: #fff;
+}
+#item-body > table > thead > tr > th{
+background: #BEC8D2 !important;
+text-transform: capitalize !important;
+}
+#buddypress #whats-new:focus {
+border-color: rgba(0,0,0,.4)!important;
+outline-color: rgba(0,0,0,.4);
+}
+
+/******************************************************************************
+******************************************************************************
+END OF GENERAL LAYOUT
+******************************************************************************
+******************************************************************************
+*/
+#buddypress .standard-form input[type=text], 
+#buddypress .standard-form textarea,
+#buddypress .standard-form input[type=email],
+#buddypress .standard-form input[type=number]{
+width: 100%;
+}
+#buddypress .standard-form label{
+display: inline;
+}
+#buddypress .standard-form label,
+#buddypress .standard-form select{
+font-size: 10px;
+}
+#buddypress .standard-form div.submit input{
+display: block;
+margin: 0 auto;
+}
+
+/*
+******************************************************************************
+******************************************************************************
+START OF ADMINBAR
+******************************************************************************
+******************************************************************************
+*/
+
+
+/*MAKING THE SUBMENU ITEMS OF ADMINBAR DROP UP AND NOT DOWN*/
+#wp-admin-bar-my-account > div, #wp-admin-bar-Profile_Edit > div{
+position: absolute;
+bottom: 100%;
+overflow: scroll;
+}
+#wp-admin-bar-bp-notifications > div{
+width: auto !important;
+right: 0 !important;
+}
+#wp-admin-bar-Profile_Edit-default > li{
+border-bottom: 1px solid #f6f6f6 !important;
+}
+#wp-admin-bar-Profile_Edit-default > li > a{
+color: #000 !important;
+}
+#wpadminbar{
+position: fixed !important;
+min-width: 10% !important;
+
+}
+
+/*THIS MAKES THE ADMINBAR ITEMS APPEAR IN MOBILES*/
+#wp-admin-bar-top-secondary > li,
+#wp-admin-bar-root-default > li{
+display: block !important;
+}
+
+#wp-admin-bar-root-default > li{
+margin-right: 6% !important;
+}
+
+#wp-admin-bar-bp-notifications-default > li > a{
+color: #000 !important;
+}
+#wp-admin-bar-bp-notifications > div{
+position: absolute;
+bottom: 100%;
+}
+#wp-admin-bar-bp-notifications-default{
+background: #344152 !important;
+}
+#wp-admin-bar-bp-notifications-default > li > a{
+font-size: 12px !important;
+color: #fff !important;
+}
+/*
+******************************************************************************
+******************************************************************************
+END OF ADMINBAR
+******************************************************************************
+******************************************************************************
+*/
+/******************************************************************************
+******************************************************************************
+START OF ADMIN BAR
+******************************************************************************
+******************************************************************************
+*/
+#wp-admin-bar-Beauticians,
+#wp-admin-bar-Hair_Stylists,
+#wp-admin-bar-Spa_Therapists,
+#wp-admin-bar-makeup_artists,
+#wp-admin-bar-tattoo_artists,
+#wp-admin-bar-nail_artists,
+#wp-admin-bar-consultants,
+#wp-admin-bar-trainers,
+#wp-admin-bar-trainees,
+#wp-admin-bar-Home, #wp-admin-bar-my_inbox, #wp-admin-bar-my_activity, #wp-admin-bar-Invite{
+float: right !important;
+}
+#wp-admin-bar-logout{
+margin: 0 !important;
+}
+#wp-admin-bar-my_activity > a{
+text-transform: capitalize;
+}
+/*#wp-admin-bar-logout > a, 
+#wp-admin-bar-my-account-settings-general > a,
+#wp-admin-bar-wpbdp-bar-submit-listing-button > a,
+#wp-admin-bar-my-em-events-my-events > a,
+#wp-admin-bar-job_manager > div,
+#wp-admin-bar-post_job > a,
+#wp-admin-bar-job_dashboard > a,
+#wp-admin-bar-bp-notifications-default li a{
+font-size: 12px !important;
+color: #fff  !important;
+}*/
+
+#wp-admin-bar-my-account > div,
+#wp-admin-bar-user-actions{
+background: #fff !important;
+}
+#wp-admin-bar-logout > a,
+#wp-admin-bar-my-account-default > li > a{
+color: #000 !important;
+}
+#wp-admin-bar-my-account-default li{
+border-bottom: 1px solid #e3e3e3;
+}
+#wp-admin-bar-dummy2 > div,
+#wp-admin-bar-admin-bar-dummy1-button{
+visibility: hidden;
+}
+#wp-admin-bar-admin-bar-avatar-button > a > img{
+max-width: 20px;
+max-height: 20px;
+}
+#wp-admin-bar-admin-bar-labelbrand-button > div, 
+#wp-admin-bar-admin-bar-labelcareer-button > div, 
+#wp-admin-bar-wpbdp-bar-BS-label-button > div, 
+#wp-admin-bar-settings_label > div,
+#wp-admin-bar-usage_label > div{
+color: #777 !important;
+text-transform: uppercase;
+font-size: 12px !important;
+font-weight: 800 !important;
+letter-spacing: 2px;
+}
+#wp-admin-bar-admin-bar-labelbrand-button, 
+#wp-admin-bar-admin-bar-labelcareer-button, 
+#wp-admin-bar-wpbdp-bar-BS-label-button, 
+#wp-admin-bar-settings_label,
+#wp-admin-bar-usage_label{
+background: #e3e3e3! important;
+}
+#wp-admin-bar-logout > a:before{
+content: url(https://dl.dropboxusercontent.com/s/loqat22ybggybsi/logout.png?dl=0) "\00a0";
+}
+#wpadminbar .ab-top-secondary .menupop .ab-sub-wrapper{
+height: auto;
+min-height: 50%;
+max-height: 700%;
+}
+START OF PROFILE VIEW
 ******************************************************************************
 ******************************************************************************
 */
 /*MAKING THE TABLE BARE */
-table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;background:#fff}.alt td{background:#fff!important}.field_105 > td:nth-child(1),.field_140 > td:nth-child(1),.field_148 > td:nth-child(1),.field_152 > td:nth-child(1),.field_159 > td:nth-child(1){display:table-cell;width:10%!important;border-right:2px groove #E3E3E3!important}tr.field_70 td,tr.field_75 td,tr.field_80 td,tr.field_181 td,tr.field_189 td,tr.field_506 td,tr.field_523 td,tr.field_531 td,tr.field_539 td,tr.field_478 td,tr.field_483 td,tr.field_497 td,tr.field_606 td,tr.field_515 td,tr.field_687 td,tr.field_736 td,tr.field_798 td,tr.field_803 td,tr.field_808 td{border-top:2px groove #E3E3E3!important}tr.field_60,tr.field_68,tr.field_67,tr.field_177,tr.field_176,tr.field_73,tr.field_72,tr.field_78,tr.field_77,tr.field_83,tr.field_82,tr.field_186,tr.field_188,tr.field_194,tr.field_195,tr.field_88,tr.field_89,tr.field_90,tr.field_91,tr.field_92,tr.field_93,tr.field_94,tr.field_95,tr.field_96,tr.field_98,/*tr.field_1,tr.field_49,*/
-tr.field_50,tr.field_528,tr.field_529,tr.field_536,tr.field_537,tr.field_544,tr.field_545,tr.field_494,tr.field_495,tr.field_503,tr.field_504,tr.field_512,tr.field_513,tr.field_520,tr.field_521,tr.field_733,tr.field_734,tr.field_795,tr.field_796,tr.field_480,tr.field_481,tr.field_800,tr.field_801,tr.field_805,tr.field_806,tr.field_810,tr.field_811{display:inline-block}tr.field_196 > td > p > a::before{content:url(https://dl.dropboxusercontent.com/s/etx3enjwyabl2cg/Phone_icon.png?dl=0);margin-right:5px}tr.field_68 > td > p::before,tr.field_73 > td > p::before,tr.field_78 > td > p::before,tr.field_83 > td > p::before,tr.field_177 > td > p::before,tr.field_186 > td > p::before,tr.field_194 > td > p::before,tr.field_528 > td > p::before,tr.field_536 > td > p::before,tr.field_544 > td > p::before,tr.field_494 > td > p::before,tr.field_503 > td > p::before,tr.field_512 > td > p::before,tr.field_520 > td > p::before,tr.field_733 > td > p::before,tr.field_795 > td > p::before,tr.field_480 > td > p::before,tr.field_800 > td > p::before,tr.field_805 > td > p::before,tr.field_810 > td > p::before{content:"-\00a0 \00a0 \00a0 \00a0 \00a0 \00a0 "}tr.field_88,tr.field_185,tr.field_193,tr.field_49,tr.field_89,tr.field_91,tr.field_92,tr.field_93,tr.field_94,tr.field_95,tr.field_96,tr.field_97,tr.field_98,tr.field_59,tr.field_66,tr.field_71,tr.field_76,tr.field_81,tr.field_175,tr.field_535,tr.field_543,tr.field_479,tr.field_493,tr.field_502,tr.field_511,tr.field_519,tr.field_527,tr.field_723,tr.field_732,tr.field_794,tr.field_799,tr.field_804,tr.field_809{float:left}tr.field_60,tr.field_67,tr.field_68,tr.field_72,tr.field_73,tr.field_77,tr.field_78,tr.field_82,tr.field_83,tr.field_176,tr.field_177,tr.field_186,tr.field_188,tr.field_194,tr.field_195,tr.field_528,tr.field_529,tr.field_536,tr.field_537,tr.field_544,tr.field_545,tr.field_494,tr.field_495,tr.field_503,tr.field_504,tr.field_512,tr.field_513,tr.field_520,tr.field_521,tr.field_733,tr.field_734,tr.field_795,tr.field_796,tr.field_480,tr.field_481,tr.field_800,tr.field_801,tr.field_805,tr.field_806,tr.field_810,tr.field_811{float:right}#item-body tr a,td > p{color:#000;text-decoration:none}#item-body > div.profile > div.bp-widget.skills > h4,#item-body > div.profile > div.bp-widget.current-employment > h4,#item-body > div.profile > div.bp-widget.past-experience > h4,#item-body > div.profile > div.bp-widget.professional-qualifications > h4,#rtm-gallery-title-container > h4{background:#BEC8D2;color:#fff;padding-left:2%}#item-body > div.profile > div.bp-widget.skills > h4{margin-bottom:1%!important}.field_58 > td:nth-child(2) > p:nth-child(1) > a,.field_65 > td:nth-child(2) > p:nth-child(1) > a,.field_70 > td:nth-child(2) > p:nth-child(1) > a,.field_75 > td:nth-child(2) > p:nth-child(1) > a,.field_80 > td:nth-child(2) > p:nth-child(1) > a,.field_174 > td:nth-child(2) > p:nth-child(1) > a,.field_181 > td:nth-child(2) > p:nth-child(1) > a,.field_189 > td:nth-child(2) > p:nth-child(1) > a,.field_523 > td.data > p > a,.field_531 > td.data > p > a,.field_539 > td.data > p > a,.field_483 > td.data > p > a,.field_497 > td.data > p > a,.field_497 > td.data > p > a,.field_506 > td.data > p > a,.field_515 > td.data > p > a,.field_687 > td.data > p > a,.field_736 > td.data > p > a,.field_70 > td.data > p,.field_80 > td.data > p,.field_478 > td.data > p > a{color:#777!important;font-size:16px!important;font-weight:700!important;text-transform:capitalize}.field_265 > td.data > p > a,.field_526 > td.data > p > a,.field_542 > td.data > p > a,.field_277 > td.data > p > a,.field_489 > td.data > p > a,.field_510 > td.data > p > a,.field_518 > td.data > p > a,.field_793 > td.data > p > a,.field_798 > td.data > p > a,.field_803 > td.data > p > a,.field_808 > td.data > p > a,.field_731 > td.data > p > a,.field_501 > td.data > p > a,.field_478 > td.data > p > a,.field_278 > td.data > p > a{color:#777!important;font-weight:700!important;text-transform:capitalize}.field_59 > td > p > a,.field_60 > td > p,.field_66 > td > p > a,.field_67 > td > p,.field_68 > td > p,.field_71 > td > p > a,.field_72 > td > p,.field_73 > td > p,.field_76 > td > p,.field_76 > td > p > a,.field_77 > td > p,.field_78 > td > p,.field_81 > td > p > a,.field_82 > td > p,.field_83 > td > p,tr.field_175 > td > p,tr.field_177 > td > p,tr.field_176 > td > p,tr.field_185 > td > p,tr.field_186 > td > p,tr.field_188 > td > p,tr.field_193 > td > p,tr.field_194 > td > p,tr.field_195 > td > p,tr.field_527 > td > p,tr.field_535 > td > p,tr.field_543 > td > p,tr.field_479 > td > p,tr.field_493 > td > p,tr.field_502 > td > p,tr.field_511 > td > p,tr.field_519 > td > p,tr.field_723 > td > p,tr.field_732 > td > p,tr.field_794 > td > p,tr.field_799 > td > p,tr.field_804 > td > p,tr.field_809 > td > p,tr.field_528 > td > p,tr.field_529 > td > p,tr.field_536 > td > p,tr.field_537 > td > p,tr.field_544 > td > p,tr.field_545 > td > p,tr.field_494 > td > p,tr.field_495 > td > p,tr.field_503 > td > p,tr.field_504 > td > p,tr.field_512 > td > p,tr.field_513 > td > p,tr.field_520 > td > p,tr.field_521 > td > p,tr.field_733 > td > p,tr.field_734 > td > p,tr.field_795 > td > p,tr.field_796 > td > p,tr.field_480 > td > p,tr.field_481 > td > p,tr.field_800 > td > p,tr.field_801 > td > p,tr.field_805 > td > p,tr.field_806 > td > p,tr.field_810 > td > p,tr.field_811 > td > p{font-weight:700;font-style:italic;font-size:10px;text-transform:Capitalize}.field_head-shot-focus-of-the-photograph-has-to-be-your-face.optional-field.visibility-loggedin.field_type_image > td.data > p > img,.field_full-length-shot-capture-from-top-of-your-head-to-the-ground-on-which-your-foot-stands.field_type_image > td.data > p > img{max-width:25%}.rtmedia-container{line-height:2%;padding:0!important}#rtm-gallery-title-container{max-width:100%}#rtm-gallery-title-container > h4{width:100%!important;line-height:1.2em!important;font-size:23px;padding-left:2%!important}.rtmedia-list-item{margin:0!important}#item-body > div.profile > div.bp-widget.my-photos{margin-top:1%}#item-body > div.profile > div.bp-widget.primary{-webkit-box-shadow:0 0 17px 0 rgba(0,0,0,1);-moz-box-shadow:0 0 17px 0 rgba(0,0,0,1);box-shadow:0 0 17px 0 rgba(0,0,0,1)}#item-body > div.profile > div.bp-widget.primary > table > tbody > tr.field_1 > td.data{border-top:2px solid #344152}tr.field_1 > td > p > a{font-size:20px;letter-spacing:2px;text-shadow:1px 1px 1px #000}#profile-edit-form > div.editfield.field_49.field_head-shot-focus-of-the-photograph-has-to-be-your-face > label:nth-child(5),#profile-edit-form > div.editfield.field_50.field_full-length-shot-capture-from-top-of-your-head-to-the-ground-on-which-your-foot-stands > label:nth-child(5){display:block}#profile-edit-form h4{padding:2%!important;width:92%;margin:0!important;background:#344152;color:#fff;position:fixed;top:0;font-size:14px}#profile-edit-form{margin-top:70px}#profile-edit-form > div{border-bottom:1px double #f6f6f6}#profile-edit-form > div > input[type=text],#profile-edit-form > div > input[type=number],#profile-edit-form > div > textarea,#profile-edit-form > div > select{width:100%!important}#profile-edit-form > div.submit{position:fixed;top:-13px;right:0}#profile-group-edit-submit{background:green!important}#subnav > ul > li > a{height:20px}#buddypress div.item-list-tabs#subnav{height:40px}#subnav{margin:0!important}#primary{padding:0!important}div.activity-comments,div.activity-comments form div.ac-reply-content{margin:0!important}div.activity-comments > ul,div.activity-comments > ul > li{margin:0!important}#members-list > li > div.action{position:relative!important;left:0!important;display:block!important;margin:10px 0!important;text-align:left!important}#friend-list > li > div.item > div.item-title > a,#members-list > li> div.item > div > a{color:#000;text-decoration:none;font-weight:300;font-size:14px;text-transform:capitalize;letter-spacing:1px}#friend-list > li > div.item > div.item-title,#members-list > li > div.item > div{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;-ms-text-overflow:ellipsis}#friend-list > li > div.item > div:nth-child(2),#friend-list > li > div.item > div:nth-child(3),#members-list > li > div:nth-child(3),#members-list > li > div:nth-child(4){white-space:nowrap;overflow:hidden;text-overflow:ellipsis;-o-text-overflow:ellipsis;-ms-text-overflow:ellipsis;font-size:12px;font-weight:300;text-transform:capitalize}#buddypress div.dir-search{float:none;display:block;width:100%;height:40px;background:#344152;margin:10px auto}#search-members-form{position:relative;display:block;width:100%;margin:0 auto;top:2px}#search-members-form > label{min-width:474px!important;margin:0 auto!important}#members_search{height:36px;min-width:99%;font-size:16px!important;letter-spacing:2px;padding:10px!important;border:none!important;display:block;margin:0 auto!important}#members-dir-list > #pag-top{margin-top:0!important}button#rtmedia-add-media-button-post-update .dashicons{display:none!important}#rtmedia-add-media-button-post-update{margin-top:0;padding:0;text-align:right;border:none!important;background:url(http://i.imgur.com/Y5mxW3T.png) no-repeat right top!important;width:32px;height:32px;cursor:pointer;margin-left:2%!important}#activity-stream > li.load-more{background-color:#fff!important}#settings-form > label:nth-child(1),#settings-form > label:nth-child(4),#settings-form > label:nth-child(6){display:none}#settings-form > input{width:300px!important}td.thread-from > p:nth-child(5),td.thread-from > p:nth-child(6){margin:0}td.thread-from > p:nth-child(7){color:#5a5a5a}td.thread-from > a:nth-child(2),td.thread-from > a:nth-child(3){color:#000;font-weight:700;font-size:16px}#settings-form > p{font-size:16px;text-transform:initial;margin-bottom:5px}#message-threads > tbody > tr > td.thread-from > a{pointer-events:none}#activity-notification-settings > tbody > tr > td,#messages-notification-settings > tbody > tr > td,#friends-notification-settings > tbody > tr > td,#groups-notification-settings > tbody > tr > td{font-size:12px;border:1px solid #e3e3e3!important}#activity-notification-settings > thead > tr > th,#messages-notification-settings > thead > tr > th,#friends-notification-settings > thead > tr > th,#groups-notification-settings > thead > tr > th{font-weight:400}#activity-notification-settings > thead > tr > th.yes,#messages-notification-settings > thead > tr > th.yes,#friends-notification-settings > thead > tr > th.yes,#groups-notification-settings > thead > tr > th.yes,#activity-notification-settings > thead > tr > th.no,#messages-notification-settings > thead > tr > th.no,#friends-notification-settings > thead > tr > th.no,#groups-notification-settings > thead > tr > th.no{text-transform:capitalize;font-size:12px}#xprofile-settings-primary > thead > tr > th{font-weight:400}#xprofile-settings-primary > tbody > tr > td{font-size:12px;padding-bottom:10px!important;padding-top:10px!important;border:1px solid #e3e3e3!important}#xprofile-settings-primary > tbody > tr > td.field-visibility > select{border:none;padding:0!important}#xprofile-settings-primary > thead > tr > th{font-size:16px;text-transform:inherit;visibility:hidden;padding-bottom:15px}#xprofile-settings-primary > thead > tr > th::before{content:"Who can view these private information?";visibility:visible}div.company > span.tagline,div.company > strong{display:block;font-size:10px;margin:0!important}#submit-job-form > p > input.button,input.wpcf7-form-control.wpcf7-submit,#event-form > p > input{margin-left:107px}div.job_description > p{text-align:justify}.single_job_listing .company img{max-width:3em;max-height:3em;width:auto;height:auto}#submit-job-form > fieldset.fieldset-job_description > label{width:250px;margin-bottom:10px}#submit-job-form > fieldset.fieldset-job_title > div,#submit-job-form > fieldset.fieldset-job_location > div,#submit-job-form > fieldset.fieldset-application > div,#submit-job-form > fieldset.fieldset-company_name > div,#submit-job-form > fieldset.fieldset-company_website > div,#submit-job-form > fieldset.fieldset-company_tagline > div,#submit-job-form > fieldset.fieldset-company_video > div,#submit-job-form > fieldset.fieldset-job_description > div{float:left;width:300px}#job-manager-job-dashboard > table > tbody > tr > td.date,#job-manager-job-dashboard > table > tbody > tr > td.expires,#job-manager-job-dashboard > table > thead > tr > th.date,#job-manager-job-dashboard > table > thead > tr > th.expires{display:none}#job-manager-job-dashboard > table > tbody > tr:nth-child(1) > td.job_title > ul
-#job-manager-job-dashboard > table > tbody > tr> td > ul{visibility:visible!important}.event > td,.event.past > td,#em-wrapper > div.css-events-list > table > tbody > tr > td{display:block}.event > td:nth-child(5),.event.past > td:nth-child(5),#em-wrapper > div.css-events-list > table > tbody > tr > td:nth-child(3){border-bottom:5px solid #e3e3e3}#event_notes > p{text-align:justify}.post-thumbnail{background:#fff}img.attachment-post-thumbnail.wp-post-image{display:block;float:none;margin:10px auto}#locationtime > li{list-style:none}#em-form-when > p.em-date-range > input{display:block}#em-form-when > p.em-time-range > input{padding-left:0;padding-right:0;width:80px}#em-form-when > p.em-date-range{color:#fff}#em-location-data > div.em-location-map-container{width:280px;margin-left:20px}#em-editor-content_ifr,.mce-edit-area.mce-container.mce-panel,{height:200px!important}span.edit-link{display:none!important}#wpbdmsearchform{margin-left:10px}.wpbdp-listing-excerpt .listing-thumbnail{float:none!important;display:block}.wpbdp-listing.excerpt > div.listing-details > div.field-value.wpbdp-field-location.wpbdp-field-meta > label{font-size:1px;visibility:hidden}.wpbdp-listing.excerpt > div.listing-details > div.field-value.wpbdp-field-location.wpbdp-field-meta > label:before{content:url(https://dl.dropboxusercontent.com/s/opu1xahnvuojxbb/Location_icon.png?dl=0) "\00a0";visibility:visible}#wpbdp-category-page > h2{padding:10px}div.listing-actions.cf > form:nth-child(1){background:url(https://dl.dropboxusercontent.com/s/63kxp9q11ykpj7z/edit_icon.png?dl=0) no-repeat}div.listing-actions.cf > form:nth-child(2){background:url(https://dl.dropboxusercontent.com/s/xncy54r1r8x6sm8/delete_icon.png?dl=0) no-repeat}div.listing-actions.cf > form:nth-child(1) > input,div.listing-actions.cf > form:nth-child(2) > input{width:auto;padding:0;margin:0;background:#fff;opacity:0}.wpbdp-listing-single .main-image{max-height:65px;width:300px;margin-bottom:20px;margin-top:-20px;padding:0!important;text-align:center}div.main-image > div > a > img{max-height:65px;max-width:725px;height:auto;width:auto;border:0!important}div.listing-details.cf.with-image > div.field-value.wpbdp-field-leave_policy.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-businesswebsiteaddress.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-accomodation.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-minimum_trainings_per_year.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-incentive.wpbdp-field-meta > label,div.listing-details.cf.with-image > div.field-value.wpbdp-field-salary.wpbdp-field-meta > label{visibility:hidden;font-size:0;float:left;margin-right:10px}div.listing-details.cf.with-image > div.field-value.wpbdp-field-salary.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/reotenbmqb4dppl/salary_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-incentive.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/dorwx89vfqpdrv3/incentive_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-minimum_trainings_per_year.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/72lkeeen63c99hd/training_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-accomodation.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/dblo3yncjxprsit/accomodation_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-businesswebsiteaddress.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/33i19xlvqfm0btk/Www_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/vxoabkgmrd9t6pp/location_icon.png?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-leave_policy.wpbdp-field-meta > label:after{visibility:visible;content:url(https://dl.dropboxusercontent.com/s/e7cxbmju4nbectc/leave_icon.jpg?dl=0)}div.listing-details.cf.with-image > div.field-value.wpbdp-field-dummy.wpbdp-field-meta{display:block;visibility:hidden;margin-bottom:0;height:20px}div.field-value.wpbdp-field-details.wpbdp-field-meta{text-align:justify}div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_1.wpbdp-field-meta,div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_2.wpbdp-field-meta,div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_3.wpbdp-field-meta,div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_4.wpbdp-field-meta{width:120px;display:inline;float:right;vertical-align:bottom;margin-right:25px}div.contact-form > div > form > input.submit{margin-left:100px}.wpbdp-listing > div.contact-form > div > h3{font-size:14px}div.listing-details.cf.with-image > div.field-value.wpbdp-field-employee_value_proposition.wpbdp-field-excerpt > span > p{text-align:center}#wpbdp-listing-form-fields > .wpbdp-form-field-type-textfield > div.wpbdp-form-field-html.wpbdp-form-field-inner > input{width:100%}#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-10.wpbdp-form-field-type-select.wpbdp-form-field-label-salary.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{width:44px;float:left;margin-right:10px}#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-18.wpbdp-form-field-type-select.wpbdp-form-field-label-location.wpbdp-form-field-association-meta.select.required > div.wpbdp-form-field-label{width:61px;float:left;margin-right:10px}#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-14.wpbdp-form-field-type-select.wpbdp-form-field-label-minimum_trainings_per_year.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{width:193px;float:left;margin-right:10px}#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-12.wpbdp-form-field-type-select.wpbdp-form-field-label-accomodation.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{width:102px;float:left;margin-right:10px}#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-10.wpbdp-form-field-type-select.wpbdp-form-field-label-salary.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-18.wpbdp-form-field-type-select.wpbdp-form-field-label-location.wpbdp-form-field-association-meta.select.required > div.wpbdp-form-field-html.wpbdp-form-field-inner,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-14.wpbdp-form-field-type-select.wpbdp-form-field-label-minimum_trainings_per_year.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner,#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-12.wpbdp-form-field-type-select.wpbdp-form-field-label-accomodation.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner{display:inline}#wpbdp-listing-form-fields > div{margin-bottom:20px}#job-manager-job-dashboard table ul.job-dashboard-actions{visibility:visible;display:block}td.thread-from{display:block!important;width:95%}td.thread-from,td.thread-to,td.thread-options{border-bottom:1px solid #e3e3e3!important;border-right:1px solid #e3e3e3!important}td.thread-options{border-left:1px solid #e3e3e3!important}#message-threads > tbody > tr > td:nth-child(1){border-bottom:1px solid #e3e3e3!important;border-right:1px solid #e3e3e3!important}h3#message-subject{text-transform:Capitalize;text-align:center;background:#344152;color:#fff;border-top:10px solid #e3e3e3}#message-recipients > a{visibility:hidden}#message-recipients > a:before{content:url(https://dl.dropboxusercontent.com/s/0m3vm9j0f86tl6l/delete.png?dl=0);visibility:visible;float:right;margin-right:20px}#send-to-input,#subject,#message_content{width:430px!important;border:none!important;border-bottom:1px solid #e3e3e3!important;background:#fff!important}#notifications-bulk-management > table > tbody > tr > td,#message_content{border:1px solid #e3e3e3!important}#item-body > table > tbody > tr > td{border-bottom:1px solid #e3e3e3!important}#notifications-bulk-management > table > thead > tr > th,#message-threads > thead > tr > th{background:#344152;border:1px solid #e3e3e3!important;color:#fff;text-align:center}#wpadminbar .menupop li:hover{background:none!important}#wpadminbar li.hover>.ab-sub-wrapper,#wpadminbar.nojs li:hover>.ab-sub-wrapper{display:none}#secure_invite_name,#secure_invite_email{width:280px!important;max-width:280px!important}
+table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: #fff;
+}
+/* MAKING ALL THE ALTERNATING BACKGROUND INTO WHITE*/ 
+.alt td{
+    background: #fff !important;
+}
+/* SHOWING THE LABELS FOR SKILL AND FORMATTING OUTPUT */
+.field_105 > td:nth-child(1),.field_140 > td:nth-child(1),.field_148 > td:nth-child(1),.field_152 > td:nth-child(1),.field_159 > td:nth-child(1){
+display: table-cell;
+width: 10% !important;
+border-right: 2px groove #E3E3E3 !important;
+}
+/* LINE DIVIDERS IN EXPERIENCE & QUALIFICATIONS*/
+tr.field_70 td,
+tr.field_75 td,
+tr.field_80 td,
+tr.field_181 td,
+tr.field_189 td,
+tr.field_506 td,
+tr.field_523 td,
+tr.field_531 td,
+tr.field_539 td,
+tr.field_478 td,
+tr.field_483 td,
+tr.field_497 td,
+tr.field_606 td,
+tr.field_515 td,
+tr.field_687 td,
+tr.field_736 td,
+tr.field_798 td,
+tr.field_803 td,
+tr.field_808 td
+
+{
+    border-top: 2px groove #E3E3E3 !important;
+}
+/* DISPLAY SETTINGS OF ITEMS IN ONE LINE FOR REQUIRED LINES */
+tr.field_60,
+tr.field_68,
+tr.field_67,
+tr.field_177,
+tr.field_176,
+tr.field_73,
+tr.field_72,
+tr.field_78,
+tr.field_77,
+tr.field_83,
+tr.field_82,
+tr.field_186,
+tr.field_188,
+tr.field_194,
+tr.field_195,
+tr.field_88,
+tr.field_89,
+tr.field_90,
+tr.field_91,
+tr.field_92,
+tr.field_93,
+tr.field_94,
+tr.field_95,
+tr.field_96,
+tr.field_98,
+/*tr.field_1,
+tr.field_49,*/
+tr.field_50,
+tr.field_528,
+tr.field_529,
+tr.field_536,
+tr.field_537,
+tr.field_544,
+tr.field_545,
+tr.field_494,
+tr.field_495,
+tr.field_503,
+tr.field_504,
+tr.field_512,
+tr.field_513,
+tr.field_520,
+tr.field_521,
+tr.field_733,
+tr.field_734,
+tr.field_795,
+tr.field_796,
+tr.field_480,
+tr.field_481,
+tr.field_800,
+tr.field_801,
+tr.field_805,
+tr.field_806,
+tr.field_810,
+tr.field_811
+{
+display: inline-block;
+}
+/******** INSERT TEXT PH NO *******/
+tr.field_196 > td > p > a::before{
+content: url(https://dl.dropboxusercontent.com/s/etx3enjwyabl2cg/Phone_icon.png?dl=0);
+margin-right: 5px;
+}
+
+/******** INSERT DASH BETWEEN DATES *******/
+tr.field_68 > td > p::before,
+tr.field_73 > td > p::before,
+tr.field_78 > td > p::before,
+tr.field_83 > td > p::before,
+tr.field_177 > td > p::before,
+tr.field_186 > td > p::before,
+tr.field_194 > td > p::before,
+tr.field_528 > td > p::before,
+tr.field_536 > td > p::before,
+tr.field_544 > td > p::before,
+tr.field_494 > td > p::before,
+tr.field_503 > td > p::before,
+tr.field_512 > td > p::before,
+tr.field_520 > td > p::before,
+tr.field_733 > td > p::before,
+tr.field_795 > td > p::before,
+tr.field_480 > td > p::before,
+tr.field_800 > td > p::before,
+tr.field_805 > td > p::before,
+tr.field_810 > td > p::before
+{
+content: "-\00a0 \00a0 \00a0 \00a0 \00a0 \00a0 ";
+}
+/* THIS IS SPECIFICALLY FOR CHROME TO MAKE THE HEAD AND BODY SHOT INTO ONE ROW*/
+tr.field_88,tr.field_185,tr.field_193, tr.field_49,
+tr.field_89,
+tr.field_91,
+tr.field_92,
+tr.field_93,
+tr.field_94,
+tr.field_95,
+tr.field_96,
+tr.field_97,
+tr.field_98,
+tr.field_59,
+tr.field_66,
+tr.field_71,
+tr.field_76,
+tr.field_81,
+tr.field_175,
+tr.field_535,
+tr.field_543,
+tr.field_479,
+tr.field_493,
+tr.field_502,
+tr.field_511,
+tr.field_519,
+tr.field_527,
+tr.field_723,
+tr.field_732,
+tr.field_794,
+tr.field_799,
+tr.field_804,
+tr.field_809
+{
+float: left;
+}
+/* ALIGNING SOME PROFILE FIELDS INTO RIGHT */
+tr.field_60, 
+tr.field_67,
+tr.field_68,
+tr.field_72, 
+tr.field_73,
+tr.field_77, 
+tr.field_78,
+tr.field_82, 
+tr.field_83,
+tr.field_176,
+tr.field_177,
+tr.field_186,
+tr.field_188,
+tr.field_194,
+tr.field_195,
+tr.field_528,
+tr.field_529,
+tr.field_536,
+tr.field_537,
+tr.field_544,
+tr.field_545,
+tr.field_494,
+tr.field_495,
+tr.field_503,
+tr.field_504,
+tr.field_512,
+tr.field_513,
+tr.field_520,
+tr.field_521,
+tr.field_733,
+tr.field_734,
+tr.field_795,
+tr.field_796,
+tr.field_480,
+tr.field_481,
+tr.field_800,
+tr.field_801,
+tr.field_805,
+tr.field_806,
+tr.field_810,
+tr.field_811
+{
+float: right;
+}
+/* HIDING THE HYPERLINKS FROM RESUME*/
+#item-body tr a, td > p{
+color: #000;
+text-decoration: none;
+}
+/*ADDING BLACK BACKGROUND FOR SOME SECTION HEADINGS */
+#item-body > div.profile > div.bp-widget.skills > h4,
+#item-body > div.profile > div.bp-widget.current-employment > h4,
+#item-body > div.profile > div.bp-widget.past-experience > h4,
+#item-body > div.profile > div.bp-widget.professional-qualifications > h4,
+#rtm-gallery-title-container > h4
+{
+background: #BEC8D2;
+color: #fff;
+padding-left: 2%;
+}
+/*ADDING SPACE BELOW SKILLS TITLE SO THAT THE VERTICAL LINE IS SEPARATE FROM THE BLACK LABEL*/
+#item-body > div.profile > div.bp-widget.skills > h4{
+margin-bottom: 1% !important;
+}
+
+/*FORMATING THE SUB-SECTION HEADS*/
+.field_58 > td:nth-child(2) > p:nth-child(1) > a,
+.field_65 > td:nth-child(2) > p:nth-child(1) > a,
+.field_70 > td:nth-child(2) > p:nth-child(1) > a,
+.field_75 > td:nth-child(2) > p:nth-child(1) > a,
+.field_80 > td:nth-child(2) > p:nth-child(1) > a,
+.field_174 > td:nth-child(2) > p:nth-child(1) > a,
+.field_181 > td:nth-child(2) > p:nth-child(1) > a,
+.field_189 > td:nth-child(2) > p:nth-child(1) > a,
+.field_523 > td.data > p > a,
+.field_531 > td.data > p > a,
+.field_539 > td.data > p > a,
+.field_483 > td.data > p > a,
+.field_497 > td.data > p > a,
+.field_497 > td.data > p > a,
+.field_506 > td.data > p > a,
+.field_515 > td.data > p > a,
+.field_687 > td.data > p > a,
+.field_736 > td.data > p > a,
+.field_70 > td.data > p,
+.field_80 > td.data > p,
+.field_478 > td.data > p > a
+{
+color: #777 !important;
+font-size: 16px !important;
+font-weight: bold !important;
+text-transform: capitalize;
+}
+.field_265 > td.data > p > a,
+.field_526 > td.data > p > a,
+.field_542 > td.data > p > a,
+.field_277 > td.data > p > a,
+.field_489 > td.data > p > a,
+.field_510 > td.data > p > a,
+.field_518 > td.data > p > a,
+.field_793 > td.data > p > a,
+.field_798 > td.data > p > a,
+.field_803 > td.data > p > a,
+.field_808 > td.data > p > a,
+.field_731 > td.data > p > a,
+.field_501 > td.data > p > a,
+.field_478 > td.data > p > a, 
+.field_278 > td.data > p > a{
+color: #777 !important;
+font-weight: 700 !important;
+text-transform: capitalize;
+}
+/* BOLD AND ITALICS FOR SUB SUB SECTIONS HEADS*/
+.field_59 > td > p > a,
+.field_60 > td > p,
+.field_66 > td > p > a,
+.field_67 > td > p, 
+.field_68 > td > p,
+.field_71 > td > p > a,
+.field_72 > td > p,
+.field_73 > td > p,
+.field_76 > td > p,
+.field_76 > td > p > a,
+.field_77 > td > p, 
+.field_78 > td > p,
+.field_81 > td > p > a,
+.field_82 > td > p, 
+.field_83 > td > p,
+tr.field_175 > td > p,
+tr.field_177 > td > p,
+tr.field_176 > td > p,
+tr.field_185 > td > p,
+tr.field_186 > td > p,
+tr.field_188 > td > p,
+tr.field_193 > td > p,
+tr.field_194 > td > p,
+tr.field_195 > td > p,
+tr.field_527 > td > p,
+tr.field_535 > td > p,
+tr.field_543 > td > p,
+tr.field_479 > td > p,
+tr.field_493 > td > p,
+tr.field_502 > td > p,
+tr.field_511 > td > p,
+tr.field_519 > td > p,
+tr.field_723 > td > p,
+tr.field_732 > td > p,
+tr.field_794 > td > p,
+tr.field_799 > td > p,
+tr.field_804 > td > p,
+tr.field_809 > td > p,
+tr.field_528 > td > p,
+tr.field_529 > td > p,
+tr.field_536 > td > p,
+tr.field_537 > td > p,
+tr.field_544 > td > p,
+tr.field_545 > td > p,
+tr.field_494 > td > p,
+tr.field_495 > td > p,
+tr.field_503 > td > p,
+tr.field_504 > td > p,
+tr.field_512 > td > p,
+tr.field_513 > td > p,
+tr.field_520 > td > p,
+tr.field_521 > td > p,
+tr.field_733 > td > p,
+tr.field_734 > td > p,
+tr.field_795 > td > p,
+tr.field_796 > td > p,
+tr.field_480 > td > p,
+tr.field_481 > td > p,
+tr.field_800 > td > p,
+tr.field_801 > td > p,
+tr.field_805 > td > p,
+tr.field_806 > td > p,
+tr.field_810 > td > p,
+tr.field_811 > td > p
+{
+font-weight: bold;
+font-style: italic;
+font-size: 10px;
+text-transform: Capitalize;
+}
+.field_head-shot-focus-of-the-photograph-has-to-be-your-face.optional-field.visibility-loggedin.field_type_image > td.data > p > img,
+.field_full-length-shot-capture-from-top-of-your-head-to-the-ground-on-which-your-foot-stands.field_type_image > td.data > p > img{
+max-width: 25%;
+}
+.rtmedia-container{
+line-height: 2%;
+padding: 0 !important;
+}
+#rtm-gallery-title-container{
+max-width: 100%;
+}
+#rtm-gallery-title-container > h4{
+width: 100% !important;
+line-height: 1.2em !important;
+font-size: 23px;
+padding-left: 2% !important;
+}
+.rtmedia-list-item{
+margin: 0 !important;
+}
+#item-body > div.profile > div.bp-widget.my-photos{
+margin-top: 1%;
+}
+#item-body > div.profile > div.bp-widget.primary{
+-webkit-box-shadow: 0px 0px 17px 0px rgba(0, 0, 0, 1);
+-moz-box-shadow:    0px 0px 17px 0px rgba(0, 0, 0, 1);
+box-shadow:         0px 0px 17px 0px rgba(0, 0, 0, 1);
+}
+#item-body > div.profile > div.bp-widget.primary > table > tbody > tr.field_1 > td.data{
+border-top: 2px solid #344152;
+}
+tr.field_1 > td > p > a{
+font-size: 20px;
+letter-spacing: 2px;
+text-shadow: 1px 1px 1px #000;
+}
+
+#profile-edit-form > div.editfield.field_49.field_head-shot-focus-of-the-photograph-has-to-be-your-face > label:nth-child(5), 
+#profile-edit-form > div.editfield.field_50.field_full-length-shot-capture-from-top-of-your-head-to-the-ground-on-which-your-foot-stands > label:nth-child(5){
+display: block;
+}
+#profile-edit-form h4{
+padding:2% !important;
+width: 92%;
+margin: 0 !important;
+background: #344152;
+color: #fff;
+position: fixed;
+top:0;
+font-size: 14px;
+}
+#profile-edit-form{
+margin-top:70px;
+}
+#profile-edit-form > div{
+border-bottom: 1px double #f6f6f6;
+}
+#profile-edit-form > div  > input[type=text],#profile-edit-form > div  > input[type=number], #profile-edit-form > div  > textarea, #profile-edit-form > div  > select{
+width:100% !important;
+}
+#profile-edit-form > div.submit{
+position: fixed;
+top: -13px;
+right: 0px;
+}
+#profile-group-edit-submit{
+background: green !important;
+}
+#subnav > ul > li > a{
+height:20px;
+}
+#buddypress div.item-list-tabs#subnav {
+height: 40px;
+}
+/**********************SUBNAV************************************
+***************************************************************************************
+**********************************************/
+#subnav{
+margin:0 !important;
+}
+#primary{
+padding:0 !important;
+}
+div.activity-comments, div.activity-comments form div.ac-reply-content{
+margin: 0 !important;
+}
+div.activity-comments > ul, div.activity-comments > ul > li{
+
+margin: 0 !important;
+}
+/******************************************************************************
+******************************************************************************
+START OF MEMBERS DIRECTORY
+******************************************************************************
+******************************************************************************
+*/
+#members-list > li > div.action{
+position: relative !important;
+left: 0 !important;
+display:block!important;
+margin:10px 0 !important;
+text-align: left !important;
+}
+#friend-list > li > div.item > div.item-title > a,
+#members-list > li> div.item > div > a
+{
+color: #000;
+text-decoration: none;
+font-weight: 300;
+font-size:14px;
+text-transform:capitalize;
+letter-spacing: 1px;
+}
+#friend-list > li > div.item > div.item-title,
+#members-list > li > div.item > div{
+white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+}
+#friend-list > li > div.item > div:nth-child(2),#friend-list > li > div.item > div:nth-child(3),
+#members-list > li > div:nth-child(3),#members-list > li > div:nth-child(4){
+white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+font-size: 12px;
+font-weight:300;
+text-transform:capitalize;
+}
+#buddypress div.dir-search {
+float: none;
+display: block;
+width: 100%;
+height:40px;
+background:#344152;
+margin: 10px auto;
+}
+#search-members-form{
+position: relative;
+display: block;
+width: 100%
+    margin: 0 auto;
+top:2px;
+}
+#search-members-form > label{
+min-width:474px !important;
+margin:0 auto !important;
+}
+#members_search{
+height: 36px;
+min-width:99%;
+font-size: 16px !important;
+letter-spacing: 2px;
+padding:10px !important;
+border:none !important;
+display:block;
+margin:0 auto !important;
+}
+
+#members-dir-list > #pag-top{
+margin-top:0 !important;
+}
+button#rtmedia-add-media-button-post-update .dashicons{
+display:none !important;
+}
+#rtmedia-add-media-button-post-update{
+margin-top: 0;
+  padding: 0;
+  text-align: right;
+border: none !important;
+  background: url("http://i.imgur.com/Y5mxW3T.png") no-repeat right top !important;
+  width:32px;
+  height:32px;
+  cursor: pointer;
+margin-left:2% !important;
+}
+#activity-stream > li.load-more{
+background-color: #fff !important;
+}
+/****************************************************************************************
+*****************************************************************************************
+****************************UNEDITED FROM VERSION 1.0************************************
+*****************************************************************************************
+*****************************************************************************************/
+/******************************************************************************
+******************************************************************************
+START OF SETTINGS: GENERAL
+******************************************************************************
+******************************************************************************
+*/
+#settings-form > label:nth-child(1), #settings-form > label:nth-child(4), #settings-form > label:nth-child(6){
+display: none;
+}
+#settings-form > input{
+width: 300px !important;
+}
+/******************************************************************************
+******************************************************************************
+END OF SETTINGS: GENERAL
+******************************************************************************
+******************************************************************************
+*/
+/******************************************************************************
+******************************************************************************
+START OF SETTINGS: EMAIL
+******************************************************************************
+******************************************************************************
+*/
+td.thread-from > p:nth-child(5),td.thread-from > p:nth-child(6){
+margin:0;
+}
+td.thread-from > p:nth-child(7){
+color:#5a5a5a;
+}
+td.thread-from > a:nth-child(2), td.thread-from > a:nth-child(3){
+color:#000;font-weight:bold;font-size:16px;
+}
+#settings-form > p{
+font-size: 16px;
+text-transform: initial;
+margin-bottom: 5px;
+}
+#message-threads > tbody > tr > td.thread-from > a{pointer-events: none;}
+#activity-notification-settings > tbody > tr > td, #messages-notification-settings > tbody > tr > td, #friends-notification-settings > tbody > tr > td, #groups-notification-settings > tbody > tr > td{
+font-size: 12px;
+border: 1px solid #e3e3e3 !important;
+}
+#activity-notification-settings > thead > tr > th, #messages-notification-settings > thead > tr > th, #friends-notification-settings > thead > tr > th, #groups-notification-settings > thead > tr > th{
+font-weight: 400;
+}
+#activity-notification-settings > thead > tr > th.yes, #messages-notification-settings > thead > tr > th.yes, #friends-notification-settings > thead > tr > th.yes, #groups-notification-settings > thead > tr > th.yes,
+#activity-notification-settings > thead > tr > th.no, #messages-notification-settings > thead > tr > th.no, #friends-notification-settings > thead > tr > th.no, #groups-notification-settings > thead > tr > th.no
+{
+text-transform: capitalize;
+font-size: 12px;
+}
+/******************************************************************************
+******************************************************************************
+END OF SETTINGS: EMAIL
+******************************************************************************
+******************************************************************************
+*/
+/******************************************************************************
+******************************************************************************
+START OF SETTINGS: PROFILE
+******************************************************************************
+******************************************************************************
+*/
+
+#xprofile-settings-primary > thead > tr > th{
+font-weight: 400;
+}
+#xprofile-settings-primary > tbody > tr > td{
+font-size: 12px;
+padding-bottom: 10px !important;
+padding-top: 10px !important;
+border: 1px solid #e3e3e3 !important;
+}
+#xprofile-settings-primary > tbody > tr > td.field-visibility > select{
+border: none;
+padding: 0 !important;
+}
+#xprofile-settings-primary > thead > tr > th
+{
+font-size: 16px;
+text-transform: inherit;
+visibility: hidden;
+padding-bottom: 15px;
+}
+#xprofile-settings-primary > thead > tr > th::before{
+content: "Who can view these private information?";
+visibility: visible;
+}
+/******************************************************************************
+******************************************************************************
+END OF SETTINGS: PROFILE
+******************************************************************************
+******************************************************************************
+*/
+/******************************************************************************
+******************************************************************************
+START OF JOBS
+******************************************************************************
+******************************************************************************
+*/
+
+div.company > span.tagline, 
+div.company > strong
+{
+display: block;
+font-size: 10px;
+margin: 0 !important;
+}
+#submit-job-form > p > input.button, 
+input.wpcf7-form-control.wpcf7-submit, 
+#event-form > p > input{
+margin-left: 107px;
+}
+
+div.job_description > p{
+text-align: justify;
+}
+.single_job_listing .company img {
+max-width: 3em;
+max-height: 3em;
+width: auto;
+height: auto;
+}
+#submit-job-form > fieldset.fieldset-job_description > label{
+width: 250px;
+margin-bottom: 10px;
+}
+#submit-job-form > fieldset.fieldset-job_title > div,
+#submit-job-form > fieldset.fieldset-job_location > div, 
+#submit-job-form > fieldset.fieldset-application > div, 
+#submit-job-form > fieldset.fieldset-company_name > div, 
+#submit-job-form > fieldset.fieldset-company_website > div, 
+#submit-job-form > fieldset.fieldset-company_tagline > div, 
+#submit-job-form > fieldset.fieldset-company_video > div, 
+#submit-job-form > fieldset.fieldset-job_description > div{
+float: left;
+width: 300px;
+}
+#job-manager-job-dashboard > table > tbody > tr > td.date, 
+#job-manager-job-dashboard > table > tbody > tr > td.expires, 
+#job-manager-job-dashboard > table > thead > tr > th.date, 
+#job-manager-job-dashboard > table > thead > tr > th.expires{
+display: none;
+}
+#job-manager-job-dashboard > table > tbody > tr:nth-child(1) > td.job_title > ul
+#job-manager-job-dashboard > table > tbody > tr> td > ul{
+visibility: visible !important;
+}
+
+/*EVENTS ***/
+
+/*MAKE THE TD ITEMS APPEAR IN SEPARATE ROWS*/
+.event > td, 
+.event.past > td, 
+#em-wrapper > div.css-events-list > table > tbody > tr > td{
+display: block;
+}
+
+.event > td:nth-child(5), 
+.event.past > td:nth-child(5), 
+#em-wrapper > div.css-events-list > table > tbody > tr > td:nth-child(3){
+border-bottom: 5px solid #e3e3e3;
+}
+#event_notes > p{
+text-align: justify;
+}
+.post-thumbnail {
+background: #fff;
+}
+
+img.attachment-post-thumbnail.wp-post-image{
+display: block;
+float: none;
+margin: 10px auto;
+}
+#locationtime > li{
+list-style: none;
+}
+#em-form-when > p.em-date-range > input{
+display: block;
+}
+ 
+#em-form-when > p.em-time-range > input{
+padding-left: 0;
+padding-right: 0;
+width: 80px;
+}
+#em-form-when > p.em-date-range{
+color: #fff;
+}
+#em-location-data > div.em-location-map-container{
+width: 280px;
+margin-left: 20px;
+}
+#em-editor-content_ifr,
+.mce-edit-area.mce-container.mce-panel, 
+{
+height: 200px !important;
+}
+
+/****Q & A****/
+span.edit-link{
+display: none !important;
+}
+#wpbdmsearchform{
+margin-left: 10px;
+}
+/*****SALONS*****/
+.wpbdp-listing-excerpt .listing-thumbnail{
+float: none !important;
+display: block;
+}
+.wpbdp-listing.excerpt > div.listing-details > div.field-value.wpbdp-field-location.wpbdp-field-meta > label{
+font-size: 1px;
+visibility: hidden;
+}
+
+.wpbdp-listing.excerpt > div.listing-details > div.field-value.wpbdp-field-location.wpbdp-field-meta > label:before{
+content: url(https://dl.dropboxusercontent.com/s/opu1xahnvuojxbb/Location_icon.png?dl=0) "\00a0";
+visibility: visible;
+}
+#wpbdp-category-page > h2{
+padding: 10px;
+}
+
+div.listing-actions.cf > form:nth-child(1){
+background: url("https://dl.dropboxusercontent.com/s/63kxp9q11ykpj7z/edit_icon.png?dl=0") no-repeat;
+}
+div.listing-actions.cf > form:nth-child(2){
+background: url("https://dl.dropboxusercontent.com/s/xncy54r1r8x6sm8/delete_icon.png?dl=0") no-repeat;
+}
+div.listing-actions.cf > form:nth-child(1) > input,
+div.listing-actions.cf > form:nth-child(2) > input{
+width: auto;
+padding: 0;
+margin: 0;
+background: #fff;
+opacity: 0;
+}
+
+.wpbdp-listing-single .main-image{
+max-height: 65px;
+width: 300px;
+margin-bottom: 20px;
+margin-top: -20px;
+padding: 0 !important;
+text-align: center;
+}
+div.main-image > div > a > img{
+max-height: 65px;
+max-width: 725px;
+height: auto;
+width: auto;
+border: 0 !important;
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-leave_policy.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-businesswebsiteaddress.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-accomodation.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-minimum_trainings_per_year.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-incentive.wpbdp-field-meta > label,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-salary.wpbdp-field-meta > label{
+visibility: hidden;
+font-size: 0;
+float: left;
+margin-right: 10px;
+}
+
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-salary.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/reotenbmqb4dppl/salary_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-incentive.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/dorwx89vfqpdrv3/incentive_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-minimum_trainings_per_year.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/72lkeeen63c99hd/training_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-accomodation.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/dblo3yncjxprsit/accomodation_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-businesswebsiteaddress.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/33i19xlvqfm0btk/Www_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-location.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/vxoabkgmrd9t6pp/location_icon.png?dl=0);
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-leave_policy.wpbdp-field-meta > label:after{
+visibility: visible;
+content: url(https://dl.dropboxusercontent.com/s/e7cxbmju4nbectc/leave_icon.jpg?dl=0);
+}
+/*MAKING THE DUMMY FIELD INVISIBLE IN SINGLE SALON LISTING*/
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-dummy.wpbdp-field-meta{
+display: block;
+visibility: hidden;
+margin-bottom: 0;
+height: 20px;
+}
+div.field-value.wpbdp-field-details.wpbdp-field-meta{
+text-align: justify;
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_1.wpbdp-field-meta,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_2.wpbdp-field-meta,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_3.wpbdp-field-meta,
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-pic_4.wpbdp-field-meta
+{
+width: 120px;
+display: inline;
+float: right;
+vertical-align: bottom;
+margin-right: 25px;
+}
+div.contact-form > div > form > input.submit{
+margin-left: 100px;
+}
+
+
+.wpbdp-listing > div.contact-form > div > h3{
+font-size: 14px;
+}
+div.listing-details.cf.with-image > div.field-value.wpbdp-field-employee_value_proposition.wpbdp-field-excerpt > span > p{
+text-align: center;
+}
+#wpbdp-listing-form-fields > .wpbdp-form-field-type-textfield > div.wpbdp-form-field-html.wpbdp-form-field-inner > input{
+width: 100%;
+}
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-10.wpbdp-form-field-type-select.wpbdp-form-field-label-salary.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{
+width: 44px;
+float: left;
+margin-right: 10px;
+}
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-18.wpbdp-form-field-type-select.wpbdp-form-field-label-location.wpbdp-form-field-association-meta.select.required > div.wpbdp-form-field-label{
+width: 61px;
+float: left;
+margin-right: 10px;
+}
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-14.wpbdp-form-field-type-select.wpbdp-form-field-label-minimum_trainings_per_year.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{
+width: 193px;
+float: left;
+margin-right: 10px;
+}
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-12.wpbdp-form-field-type-select.wpbdp-form-field-label-accomodation.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-label{
+width: 102px;
+float: left;
+margin-right: 10px;
+}
+
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-10.wpbdp-form-field-type-select.wpbdp-form-field-label-salary.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner, 
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-18.wpbdp-form-field-type-select.wpbdp-form-field-label-location.wpbdp-form-field-association-meta.select.required > div.wpbdp-form-field-html.wpbdp-form-field-inner, 
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-14.wpbdp-form-field-type-select.wpbdp-form-field-label-minimum_trainings_per_year.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner, 
+#wpbdp-listing-form-fields > div.wpbdp-form-field.wpbdp-form-field-id-12.wpbdp-form-field-type-select.wpbdp-form-field-label-accomodation.wpbdp-form-field-association-meta.select > div.wpbdp-form-field-html.wpbdp-form-field-inner{
+display: inline;
+}
+#wpbdp-listing-form-fields > div{
+margin-bottom: 20px;
+}
+/*****JOB DASHBOARD****/
+#job-manager-job-dashboard table ul.job-dashboard-actions {
+visibility: visible;
+display: block;
+}
+
+/**********************REPLACE DELETE BUTTON BY A BASKET AND ALIGN IT PROPERLY***********************
+***************************************************************************************************/
+/*#message-threads td.thread-options > a {
+visibility: hidden;
+}
+#message-threads td.thread-options > a::before{
+content: url(https://dl.dropboxusercontent.com/s/0m3vm9j0f86tl6l/delete.png?dl=0);
+visibility: visible;
+}
+#message-threads td.thread-options > a{
+margin-left: 5px;
+vertical-align: -5px;
+}
+#message-threads td.thread-options > input[type="checkbox"]{
+margin-top: 50px;
+}*/
+
+
+td.thread-from
+{
+display: block !important;
+width: 95%;
+}
+/*#message-threads > tbody > tr:nth-child(even) > td{
+background: #e3e3e3 !important;
+}
+#message-threads > tbody > tr:nth-child(odd) > td{
+background: #f6f6f6 !important;
+}*/
+
+
+td.thread-from, td.thread-to,
+td.thread-options
+{
+border-bottom: 1px solid #e3e3e3 !important;
+border-right: 1px solid #e3e3e3 !important;
+}
+td.thread-options
+{
+border-left: 1px solid #e3e3e3 !important;
+}
+#message-threads > tbody > tr > td:nth-child(1){
+border-bottom: 1px solid #e3e3e3 !important;
+border-right: 1px solid #e3e3e3 !important;
+}
+h3#message-subject{
+text-transform: Capitalize;
+text-align: center;
+background: #344152;
+color: #fff;
+border-top: 10px solid #e3e3e3;
+}
+#message-recipients > a
+{
+visibility: hidden;
+}
+#message-recipients > a:before
+{
+content: url(https://dl.dropboxusercontent.com/s/0m3vm9j0f86tl6l/delete.png?dl=0);
+visibility: visible;
+float: right;
+margin-right: 20px;
+}
+#send-to-input, #subject, #message_content{
+width: 430px !important;
+border: none !important;
+border-bottom: 1px solid #e3e3e3 !important;
+background: #fff !important;
+}
+#notifications-bulk-management > table > tbody > tr > td, 
+#message_content{
+border: 1px solid #e3e3e3 !important;
+}
+
+
+#item-body > table > tbody > tr > td{
+border-bottom: 1px solid #e3e3e3 !important;
+}
+#notifications-bulk-management > table > thead > tr > th, 
+#message-threads > thead > tr > th{
+background: #344152;
+border: 1px solid #e3e3e3 !important;
+color: #fff;
+text-align: center;
+}
+/*****MENU****/
+#wpadminbar .menupop li:hover {
+background: none !important;
+}
+/*Removing the hover effect of menu*/
+#wpadminbar li.hover>.ab-sub-wrapper, #wpadminbar.nojs li:hover>.ab-sub-wrapper {
+display: none;
+}
+#secure_invite_name, 
+#secure_invite_email{
+width: 280px !important;
+max-width: 280px !important;
+}
